@@ -1,0 +1,900 @@
+25-06-08.21:27|[walker2d-medium-expert-v2-seed2] --------------  --------
+25-06-08.21:27|[walker2d-medium-expert-v2-seed2] Trained Epochs   2
+25-06-08.21:27|[walker2d-medium-expert-v2-seed2] Actor Loss      -0.88248
+25-06-08.21:27|[walker2d-medium-expert-v2-seed2] Critic Loss      1.99801
+25-06-08.21:27|[walker2d-medium-expert-v2-seed2] --------------  --------
+25-06-08.21:27|[walker2d-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.21:27|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    -37.0995
+25-06-08.21:27|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward   -0.00843636
+25-06-08.21:27|[walker2d-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.21:27|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:27|[walker2d-medium-expert-v2-seed2] Trained Epochs   4
+25-06-08.21:27|[walker2d-medium-expert-v2-seed2] Actor Loss      -0.931144
+25-06-08.21:27|[walker2d-medium-expert-v2-seed2] Critic Loss      4.11194
+25-06-08.21:27|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:27|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:27|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    79.6127
+25-06-08.21:27|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward   0.0169874
+25-06-08.21:27|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:28|[walker2d-medium-expert-v2-seed2] --------------  --------
+25-06-08.21:28|[walker2d-medium-expert-v2-seed2] Trained Epochs   6
+25-06-08.21:28|[walker2d-medium-expert-v2-seed2] Actor Loss      -0.94046
+25-06-08.21:28|[walker2d-medium-expert-v2-seed2] Critic Loss      6.45519
+25-06-08.21:28|[walker2d-medium-expert-v2-seed2] --------------  --------
+25-06-08.21:28|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:28|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    463.051
+25-06-08.21:28|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward    0.100513
+25-06-08.21:28|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:28|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:28|[walker2d-medium-expert-v2-seed2] Trained Epochs   8
+25-06-08.21:28|[walker2d-medium-expert-v2-seed2] Actor Loss      -0.944924
+25-06-08.21:28|[walker2d-medium-expert-v2-seed2] Critic Loss      9.47703
+25-06-08.21:28|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:28|[walker2d-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.21:28|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    262.107
+25-06-08.21:28|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward    0.0567407
+25-06-08.21:28|[walker2d-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.21:28|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:28|[walker2d-medium-expert-v2-seed2] Trained Epochs  10
+25-06-08.21:28|[walker2d-medium-expert-v2-seed2] Actor Loss      -0.947763
+25-06-08.21:28|[walker2d-medium-expert-v2-seed2] Critic Loss     11.427
+25-06-08.21:28|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:28|[walker2d-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.21:28|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    159.248
+25-06-08.21:28|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward    0.0343346
+25-06-08.21:28|[walker2d-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.21:29|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:29|[walker2d-medium-expert-v2-seed2] Trained Epochs  12
+25-06-08.21:29|[walker2d-medium-expert-v2-seed2] Actor Loss      -0.950422
+25-06-08.21:29|[walker2d-medium-expert-v2-seed2] Critic Loss     14.364
+25-06-08.21:29|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:29|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:29|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    629.712
+25-06-08.21:29|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward    0.136817
+25-06-08.21:29|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:29|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:29|[walker2d-medium-expert-v2-seed2] Trained Epochs  14
+25-06-08.21:29|[walker2d-medium-expert-v2-seed2] Actor Loss      -0.952415
+25-06-08.21:29|[walker2d-medium-expert-v2-seed2] Critic Loss     16.1992
+25-06-08.21:29|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:29|[walker2d-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.21:29|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    1095.62
+25-06-08.21:29|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     0.238307
+25-06-08.21:29|[walker2d-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.21:29|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:29|[walker2d-medium-expert-v2-seed2] Trained Epochs  16
+25-06-08.21:29|[walker2d-medium-expert-v2-seed2] Actor Loss      -0.954082
+25-06-08.21:29|[walker2d-medium-expert-v2-seed2] Critic Loss     17.9407
+25-06-08.21:29|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:29|[walker2d-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.21:29|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    2367.53
+25-06-08.21:29|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     0.515371
+25-06-08.21:29|[walker2d-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.21:30|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:30|[walker2d-medium-expert-v2-seed2] Trained Epochs  18
+25-06-08.21:30|[walker2d-medium-expert-v2-seed2] Actor Loss      -0.955485
+25-06-08.21:30|[walker2d-medium-expert-v2-seed2] Critic Loss     18.3112
+25-06-08.21:30|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:30|[walker2d-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.21:30|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    1762.76
+25-06-08.21:30|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     0.383633
+25-06-08.21:30|[walker2d-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.21:30|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:30|[walker2d-medium-expert-v2-seed2] Trained Epochs  20
+25-06-08.21:30|[walker2d-medium-expert-v2-seed2] Actor Loss      -0.956857
+25-06-08.21:30|[walker2d-medium-expert-v2-seed2] Critic Loss     17.1111
+25-06-08.21:30|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:30|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:30|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    1979.06
+25-06-08.21:30|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     0.43075
+25-06-08.21:30|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:30|[walker2d-medium-expert-v2-seed2] --------------  -------
+25-06-08.21:30|[walker2d-medium-expert-v2-seed2] Trained Epochs  22
+25-06-08.21:30|[walker2d-medium-expert-v2-seed2] Actor Loss      -0.9581
+25-06-08.21:30|[walker2d-medium-expert-v2-seed2] Critic Loss     19.0548
+25-06-08.21:30|[walker2d-medium-expert-v2-seed2] --------------  -------
+25-06-08.21:30|[walker2d-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.21:30|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    1878.4
+25-06-08.21:30|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     0.408823
+25-06-08.21:30|[walker2d-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.21:31|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:31|[walker2d-medium-expert-v2-seed2] Trained Epochs  24
+25-06-08.21:31|[walker2d-medium-expert-v2-seed2] Actor Loss      -0.958919
+25-06-08.21:31|[walker2d-medium-expert-v2-seed2] Critic Loss     19.1482
+25-06-08.21:31|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:31|[walker2d-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.21:31|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    2737.86
+25-06-08.21:31|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     0.596041
+25-06-08.21:31|[walker2d-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.21:31|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:31|[walker2d-medium-expert-v2-seed2] Trained Epochs  26
+25-06-08.21:31|[walker2d-medium-expert-v2-seed2] Actor Loss      -0.959641
+25-06-08.21:31|[walker2d-medium-expert-v2-seed2] Critic Loss     19.2986
+25-06-08.21:31|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:31|[walker2d-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.21:31|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    2658.44
+25-06-08.21:31|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     0.578741
+25-06-08.21:31|[walker2d-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.21:32|[walker2d-medium-expert-v2-seed2] --------------  --------
+25-06-08.21:32|[walker2d-medium-expert-v2-seed2] Trained Epochs  28
+25-06-08.21:32|[walker2d-medium-expert-v2-seed2] Actor Loss      -0.96049
+25-06-08.21:32|[walker2d-medium-expert-v2-seed2] Critic Loss     18.8659
+25-06-08.21:32|[walker2d-medium-expert-v2-seed2] --------------  --------
+25-06-08.21:32|[walker2d-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.21:32|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    3350.32
+25-06-08.21:32|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     0.729455
+25-06-08.21:32|[walker2d-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.21:32|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:32|[walker2d-medium-expert-v2-seed2] Trained Epochs  30
+25-06-08.21:32|[walker2d-medium-expert-v2-seed2] Actor Loss      -0.960984
+25-06-08.21:32|[walker2d-medium-expert-v2-seed2] Critic Loss     19.4601
+25-06-08.21:32|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:32|[walker2d-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.21:32|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    2564.29
+25-06-08.21:32|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     0.558231
+25-06-08.21:32|[walker2d-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.21:32|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:32|[walker2d-medium-expert-v2-seed2] Trained Epochs  32
+25-06-08.21:32|[walker2d-medium-expert-v2-seed2] Actor Loss      -0.961623
+25-06-08.21:32|[walker2d-medium-expert-v2-seed2] Critic Loss     19.9408
+25-06-08.21:32|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:33|[walker2d-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.21:33|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    3419.88
+25-06-08.21:33|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     0.744608
+25-06-08.21:33|[walker2d-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.21:33|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:33|[walker2d-medium-expert-v2-seed2] Trained Epochs  34
+25-06-08.21:33|[walker2d-medium-expert-v2-seed2] Actor Loss      -0.962306
+25-06-08.21:33|[walker2d-medium-expert-v2-seed2] Critic Loss     20.6038
+25-06-08.21:33|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:33|[walker2d-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.21:33|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    4383.74
+25-06-08.21:33|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     0.954568
+25-06-08.21:33|[walker2d-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.21:33|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:33|[walker2d-medium-expert-v2-seed2] Trained Epochs  36
+25-06-08.21:33|[walker2d-medium-expert-v2-seed2] Actor Loss      -0.962756
+25-06-08.21:33|[walker2d-medium-expert-v2-seed2] Critic Loss     21.3812
+25-06-08.21:33|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:33|[walker2d-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.21:33|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    2717.25
+25-06-08.21:33|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     0.591552
+25-06-08.21:33|[walker2d-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.21:34|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:34|[walker2d-medium-expert-v2-seed2] Trained Epochs  38
+25-06-08.21:34|[walker2d-medium-expert-v2-seed2] Actor Loss      -0.963297
+25-06-08.21:34|[walker2d-medium-expert-v2-seed2] Critic Loss     22.3498
+25-06-08.21:34|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:34|[walker2d-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.21:34|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    2983.81
+25-06-08.21:34|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     0.649619
+25-06-08.21:34|[walker2d-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.21:34|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:34|[walker2d-medium-expert-v2-seed2] Trained Epochs  40
+25-06-08.21:34|[walker2d-medium-expert-v2-seed2] Actor Loss      -0.963746
+25-06-08.21:34|[walker2d-medium-expert-v2-seed2] Critic Loss     23.8578
+25-06-08.21:34|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:34|[walker2d-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.21:34|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    4479.68
+25-06-08.21:34|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     0.975468
+25-06-08.21:34|[walker2d-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.21:35|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:35|[walker2d-medium-expert-v2-seed2] Trained Epochs  42
+25-06-08.21:35|[walker2d-medium-expert-v2-seed2] Actor Loss      -0.964135
+25-06-08.21:35|[walker2d-medium-expert-v2-seed2] Critic Loss     24.8906
+25-06-08.21:35|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:35|[walker2d-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.21:35|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    4530.4
+25-06-08.21:35|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     0.986517
+25-06-08.21:35|[walker2d-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.21:35|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:35|[walker2d-medium-expert-v2-seed2] Trained Epochs  44
+25-06-08.21:35|[walker2d-medium-expert-v2-seed2] Actor Loss      -0.964412
+25-06-08.21:35|[walker2d-medium-expert-v2-seed2] Critic Loss     24.2473
+25-06-08.21:35|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:35|[walker2d-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.21:35|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    4317.68
+25-06-08.21:35|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     0.940179
+25-06-08.21:35|[walker2d-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.21:36|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:36|[walker2d-medium-expert-v2-seed2] Trained Epochs  46
+25-06-08.21:36|[walker2d-medium-expert-v2-seed2] Actor Loss      -0.964711
+25-06-08.21:36|[walker2d-medium-expert-v2-seed2] Critic Loss     24.9497
+25-06-08.21:36|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:36|[walker2d-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.21:36|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    4086.25
+25-06-08.21:36|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     0.889765
+25-06-08.21:36|[walker2d-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.21:36|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:36|[walker2d-medium-expert-v2-seed2] Trained Epochs  48
+25-06-08.21:36|[walker2d-medium-expert-v2-seed2] Actor Loss      -0.964964
+25-06-08.21:36|[walker2d-medium-expert-v2-seed2] Critic Loss     24.8721
+25-06-08.21:36|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:36|[walker2d-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.21:36|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    4398.32
+25-06-08.21:36|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     0.957745
+25-06-08.21:36|[walker2d-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.21:36|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:36|[walker2d-medium-expert-v2-seed2] Trained Epochs  50
+25-06-08.21:36|[walker2d-medium-expert-v2-seed2] Actor Loss      -0.965466
+25-06-08.21:36|[walker2d-medium-expert-v2-seed2] Critic Loss     25.1668
+25-06-08.21:36|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:37|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:37|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    3531.58
+25-06-08.21:37|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     0.76894
+25-06-08.21:37|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:37|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:37|[walker2d-medium-expert-v2-seed2] Trained Epochs  52
+25-06-08.21:37|[walker2d-medium-expert-v2-seed2] Actor Loss      -0.965672
+25-06-08.21:37|[walker2d-medium-expert-v2-seed2] Critic Loss     25.3311
+25-06-08.21:37|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:37|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:37|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    4744.46
+25-06-08.21:37|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.03314
+25-06-08.21:37|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:37|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:37|[walker2d-medium-expert-v2-seed2] Trained Epochs  54
+25-06-08.21:37|[walker2d-medium-expert-v2-seed2] Actor Loss      -0.965844
+25-06-08.21:37|[walker2d-medium-expert-v2-seed2] Critic Loss     25.3874
+25-06-08.21:37|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:38|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:38|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    4808.03
+25-06-08.21:38|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.04699
+25-06-08.21:38|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:38|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:38|[walker2d-medium-expert-v2-seed2] Trained Epochs  56
+25-06-08.21:38|[walker2d-medium-expert-v2-seed2] Actor Loss      -0.965877
+25-06-08.21:38|[walker2d-medium-expert-v2-seed2] Critic Loss     25.0512
+25-06-08.21:38|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:38|[walker2d-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.21:38|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    3684.61
+25-06-08.21:38|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     0.802275
+25-06-08.21:38|[walker2d-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.21:38|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:38|[walker2d-medium-expert-v2-seed2] Trained Epochs  58
+25-06-08.21:38|[walker2d-medium-expert-v2-seed2] Actor Loss      -0.966176
+25-06-08.21:38|[walker2d-medium-expert-v2-seed2] Critic Loss     25.2713
+25-06-08.21:38|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:38|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:38|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    4144.16
+25-06-08.21:38|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     0.90238
+25-06-08.21:38|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:39|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:39|[walker2d-medium-expert-v2-seed2] Trained Epochs  60
+25-06-08.21:39|[walker2d-medium-expert-v2-seed2] Actor Loss      -0.966502
+25-06-08.21:39|[walker2d-medium-expert-v2-seed2] Critic Loss     25.3938
+25-06-08.21:39|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:39|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:39|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    4734.96
+25-06-08.21:39|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.03108
+25-06-08.21:39|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:39|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:39|[walker2d-medium-expert-v2-seed2] Trained Epochs  62
+25-06-08.21:39|[walker2d-medium-expert-v2-seed2] Actor Loss      -0.966555
+25-06-08.21:39|[walker2d-medium-expert-v2-seed2] Critic Loss     25.7758
+25-06-08.21:39|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:39|[walker2d-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.21:39|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    4260.93
+25-06-08.21:39|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     0.927816
+25-06-08.21:39|[walker2d-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.21:40|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:40|[walker2d-medium-expert-v2-seed2] Trained Epochs  64
+25-06-08.21:40|[walker2d-medium-expert-v2-seed2] Actor Loss      -0.967035
+25-06-08.21:40|[walker2d-medium-expert-v2-seed2] Critic Loss     26.8828
+25-06-08.21:40|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:40|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:40|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    4675.16
+25-06-08.21:40|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.01805
+25-06-08.21:40|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:40|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:40|[walker2d-medium-expert-v2-seed2] Trained Epochs  66
+25-06-08.21:40|[walker2d-medium-expert-v2-seed2] Actor Loss      -0.966928
+25-06-08.21:40|[walker2d-medium-expert-v2-seed2] Critic Loss     26.7091
+25-06-08.21:40|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:40|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:40|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    4819.12
+25-06-08.21:40|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.04941
+25-06-08.21:40|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:41|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:41|[walker2d-medium-expert-v2-seed2] Trained Epochs  68
+25-06-08.21:41|[walker2d-medium-expert-v2-seed2] Actor Loss      -0.967175
+25-06-08.21:41|[walker2d-medium-expert-v2-seed2] Critic Loss     26.9826
+25-06-08.21:41|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:41|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:41|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    4927.47
+25-06-08.21:41|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.07301
+25-06-08.21:41|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:41|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:41|[walker2d-medium-expert-v2-seed2] Trained Epochs  70
+25-06-08.21:41|[walker2d-medium-expert-v2-seed2] Actor Loss      -0.967234
+25-06-08.21:41|[walker2d-medium-expert-v2-seed2] Critic Loss     27.9625
+25-06-08.21:41|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:41|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:41|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    5088.45
+25-06-08.21:41|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.10808
+25-06-08.21:41|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:42|[walker2d-medium-expert-v2-seed2] --------------  --------
+25-06-08.21:42|[walker2d-medium-expert-v2-seed2] Trained Epochs  72
+25-06-08.21:42|[walker2d-medium-expert-v2-seed2] Actor Loss      -0.96749
+25-06-08.21:42|[walker2d-medium-expert-v2-seed2] Critic Loss     28.7653
+25-06-08.21:42|[walker2d-medium-expert-v2-seed2] --------------  --------
+25-06-08.21:42|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:42|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    4723.04
+25-06-08.21:42|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.02848
+25-06-08.21:42|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:42|[walker2d-medium-expert-v2-seed2] --------------  --------
+25-06-08.21:42|[walker2d-medium-expert-v2-seed2] Trained Epochs  74
+25-06-08.21:42|[walker2d-medium-expert-v2-seed2] Actor Loss      -0.96758
+25-06-08.21:42|[walker2d-medium-expert-v2-seed2] Critic Loss     29.6051
+25-06-08.21:42|[walker2d-medium-expert-v2-seed2] --------------  --------
+25-06-08.21:43|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:43|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    5117.28
+25-06-08.21:43|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.11436
+25-06-08.21:43|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:43|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:43|[walker2d-medium-expert-v2-seed2] Trained Epochs  76
+25-06-08.21:43|[walker2d-medium-expert-v2-seed2] Actor Loss      -0.967749
+25-06-08.21:43|[walker2d-medium-expert-v2-seed2] Critic Loss     30.1211
+25-06-08.21:43|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:43|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:43|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    4645.64
+25-06-08.21:43|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.01162
+25-06-08.21:43|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:43|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:43|[walker2d-medium-expert-v2-seed2] Trained Epochs  78
+25-06-08.21:43|[walker2d-medium-expert-v2-seed2] Actor Loss      -0.967943
+25-06-08.21:43|[walker2d-medium-expert-v2-seed2] Critic Loss     29.813
+25-06-08.21:43|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:44|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:44|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    5125.82
+25-06-08.21:44|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.11622
+25-06-08.21:44|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:44|[walker2d-medium-expert-v2-seed2] --------------  --------
+25-06-08.21:44|[walker2d-medium-expert-v2-seed2] Trained Epochs  80
+25-06-08.21:44|[walker2d-medium-expert-v2-seed2] Actor Loss      -0.96781
+25-06-08.21:44|[walker2d-medium-expert-v2-seed2] Critic Loss     29.6584
+25-06-08.21:44|[walker2d-medium-expert-v2-seed2] --------------  --------
+25-06-08.21:44|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:44|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    5079.03
+25-06-08.21:44|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.10603
+25-06-08.21:44|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:44|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:44|[walker2d-medium-expert-v2-seed2] Trained Epochs  82
+25-06-08.21:44|[walker2d-medium-expert-v2-seed2] Actor Loss      -0.968033
+25-06-08.21:44|[walker2d-medium-expert-v2-seed2] Critic Loss     29.357
+25-06-08.21:44|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:45|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:45|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    5024.81
+25-06-08.21:45|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.09421
+25-06-08.21:45|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:45|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:45|[walker2d-medium-expert-v2-seed2] Trained Epochs  84
+25-06-08.21:45|[walker2d-medium-expert-v2-seed2] Actor Loss      -0.968169
+25-06-08.21:45|[walker2d-medium-expert-v2-seed2] Critic Loss     30.2109
+25-06-08.21:45|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:45|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:45|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    4808.89
+25-06-08.21:45|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.04718
+25-06-08.21:45|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:45|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:45|[walker2d-medium-expert-v2-seed2] Trained Epochs  86
+25-06-08.21:45|[walker2d-medium-expert-v2-seed2] Actor Loss      -0.967979
+25-06-08.21:45|[walker2d-medium-expert-v2-seed2] Critic Loss     30.6209
+25-06-08.21:45|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:46|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:46|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    5070.05
+25-06-08.21:46|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.10407
+25-06-08.21:46|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:46|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:46|[walker2d-medium-expert-v2-seed2] Trained Epochs  88
+25-06-08.21:46|[walker2d-medium-expert-v2-seed2] Actor Loss      -0.968327
+25-06-08.21:46|[walker2d-medium-expert-v2-seed2] Critic Loss     31.6971
+25-06-08.21:46|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:46|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:46|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    5094.73
+25-06-08.21:46|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.10945
+25-06-08.21:46|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:46|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:46|[walker2d-medium-expert-v2-seed2] Trained Epochs  90
+25-06-08.21:46|[walker2d-medium-expert-v2-seed2] Actor Loss      -0.968393
+25-06-08.21:46|[walker2d-medium-expert-v2-seed2] Critic Loss     32.8774
+25-06-08.21:46|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:47|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:47|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    4984.56
+25-06-08.21:47|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.08545
+25-06-08.21:47|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:47|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:47|[walker2d-medium-expert-v2-seed2] Trained Epochs  92
+25-06-08.21:47|[walker2d-medium-expert-v2-seed2] Actor Loss      -0.968449
+25-06-08.21:47|[walker2d-medium-expert-v2-seed2] Critic Loss     32.5699
+25-06-08.21:47|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:47|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:47|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    5052.83
+25-06-08.21:47|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.10032
+25-06-08.21:47|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:47|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:47|[walker2d-medium-expert-v2-seed2] Trained Epochs  94
+25-06-08.21:47|[walker2d-medium-expert-v2-seed2] Actor Loss      -0.968535
+25-06-08.21:47|[walker2d-medium-expert-v2-seed2] Critic Loss     32.3672
+25-06-08.21:47|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:48|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:48|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    5038.2
+25-06-08.21:48|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.09713
+25-06-08.21:48|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:48|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:48|[walker2d-medium-expert-v2-seed2] Trained Epochs  96
+25-06-08.21:48|[walker2d-medium-expert-v2-seed2] Actor Loss      -0.968705
+25-06-08.21:48|[walker2d-medium-expert-v2-seed2] Critic Loss     33.4064
+25-06-08.21:48|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:48|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:48|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    5068.25
+25-06-08.21:48|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.10368
+25-06-08.21:48|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:48|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:48|[walker2d-medium-expert-v2-seed2] Trained Epochs  98
+25-06-08.21:48|[walker2d-medium-expert-v2-seed2] Actor Loss      -0.968834
+25-06-08.21:48|[walker2d-medium-expert-v2-seed2] Critic Loss     31.4658
+25-06-08.21:48|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:49|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:49|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    5016.36
+25-06-08.21:49|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.09237
+25-06-08.21:49|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:49|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.21:49|[walker2d-medium-expert-v2-seed2] Trained Epochs  100
+25-06-08.21:49|[walker2d-medium-expert-v2-seed2] Actor Loss       -0.968782
+25-06-08.21:49|[walker2d-medium-expert-v2-seed2] Critic Loss      33.789
+25-06-08.21:49|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.21:49|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:49|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    5060.05
+25-06-08.21:49|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.10189
+25-06-08.21:49|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:49|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.21:49|[walker2d-medium-expert-v2-seed2] Trained Epochs  102
+25-06-08.21:49|[walker2d-medium-expert-v2-seed2] Actor Loss       -0.969006
+25-06-08.21:49|[walker2d-medium-expert-v2-seed2] Critic Loss      33.0467
+25-06-08.21:49|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.21:50|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:50|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    5007.41
+25-06-08.21:50|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.09042
+25-06-08.21:50|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:50|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.21:50|[walker2d-medium-expert-v2-seed2] Trained Epochs  104
+25-06-08.21:50|[walker2d-medium-expert-v2-seed2] Actor Loss       -0.968954
+25-06-08.21:50|[walker2d-medium-expert-v2-seed2] Critic Loss      32.4396
+25-06-08.21:50|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.21:50|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:50|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    5091.89
+25-06-08.21:50|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.10883
+25-06-08.21:50|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:50|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.21:50|[walker2d-medium-expert-v2-seed2] Trained Epochs  106
+25-06-08.21:50|[walker2d-medium-expert-v2-seed2] Actor Loss       -0.969131
+25-06-08.21:50|[walker2d-medium-expert-v2-seed2] Critic Loss      33.1015
+25-06-08.21:50|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.21:51|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:51|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    5048.57
+25-06-08.21:51|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.09939
+25-06-08.21:51|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:51|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.21:51|[walker2d-medium-expert-v2-seed2] Trained Epochs  108
+25-06-08.21:51|[walker2d-medium-expert-v2-seed2] Actor Loss       -0.969124
+25-06-08.21:51|[walker2d-medium-expert-v2-seed2] Critic Loss      33.0183
+25-06-08.21:51|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.21:51|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:51|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    5027.55
+25-06-08.21:51|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.09481
+25-06-08.21:51|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:51|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.21:51|[walker2d-medium-expert-v2-seed2] Trained Epochs  110
+25-06-08.21:51|[walker2d-medium-expert-v2-seed2] Actor Loss       -0.969161
+25-06-08.21:51|[walker2d-medium-expert-v2-seed2] Critic Loss      32.4224
+25-06-08.21:51|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.21:52|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:52|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    5080.15
+25-06-08.21:52|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.10627
+25-06-08.21:52|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:52|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.21:52|[walker2d-medium-expert-v2-seed2] Trained Epochs  112
+25-06-08.21:52|[walker2d-medium-expert-v2-seed2] Actor Loss       -0.969241
+25-06-08.21:52|[walker2d-medium-expert-v2-seed2] Critic Loss      30.4894
+25-06-08.21:52|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.21:52|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:52|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    5079.29
+25-06-08.21:52|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.10608
+25-06-08.21:52|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:52|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.21:52|[walker2d-medium-expert-v2-seed2] Trained Epochs  114
+25-06-08.21:52|[walker2d-medium-expert-v2-seed2] Actor Loss       -0.969421
+25-06-08.21:52|[walker2d-medium-expert-v2-seed2] Critic Loss      30.9048
+25-06-08.21:52|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.21:53|[walker2d-medium-expert-v2-seed2] -------------------------  ---------
+25-06-08.21:53|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    5004.55
+25-06-08.21:53|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.0898
+25-06-08.21:53|[walker2d-medium-expert-v2-seed2] -------------------------  ---------
+25-06-08.21:53|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.21:53|[walker2d-medium-expert-v2-seed2] Trained Epochs  116
+25-06-08.21:53|[walker2d-medium-expert-v2-seed2] Actor Loss       -0.969407
+25-06-08.21:53|[walker2d-medium-expert-v2-seed2] Critic Loss      31.9581
+25-06-08.21:53|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.21:53|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:53|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    5087.85
+25-06-08.21:53|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.10795
+25-06-08.21:53|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:53|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.21:53|[walker2d-medium-expert-v2-seed2] Trained Epochs  118
+25-06-08.21:53|[walker2d-medium-expert-v2-seed2] Actor Loss       -0.969551
+25-06-08.21:53|[walker2d-medium-expert-v2-seed2] Critic Loss      31.6262
+25-06-08.21:53|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.21:54|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:54|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    5069.1
+25-06-08.21:54|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.10386
+25-06-08.21:54|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:54|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.21:54|[walker2d-medium-expert-v2-seed2] Trained Epochs  120
+25-06-08.21:54|[walker2d-medium-expert-v2-seed2] Actor Loss       -0.969455
+25-06-08.21:54|[walker2d-medium-expert-v2-seed2] Critic Loss      31.6105
+25-06-08.21:54|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.21:54|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:54|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    4981.5
+25-06-08.21:54|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.08478
+25-06-08.21:54|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:54|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:54|[walker2d-medium-expert-v2-seed2] Trained Epochs  122
+25-06-08.21:54|[walker2d-medium-expert-v2-seed2] Actor Loss       -0.96947
+25-06-08.21:54|[walker2d-medium-expert-v2-seed2] Critic Loss      32.3286
+25-06-08.21:54|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:55|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:55|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    5038.48
+25-06-08.21:55|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.09719
+25-06-08.21:55|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:55|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:55|[walker2d-medium-expert-v2-seed2] Trained Epochs  124
+25-06-08.21:55|[walker2d-medium-expert-v2-seed2] Actor Loss       -0.96944
+25-06-08.21:55|[walker2d-medium-expert-v2-seed2] Critic Loss      32.2537
+25-06-08.21:55|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:55|[walker2d-medium-expert-v2-seed2] -------------------------  --------
+25-06-08.21:55|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    5078.9
+25-06-08.21:55|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.106
+25-06-08.21:55|[walker2d-medium-expert-v2-seed2] -------------------------  --------
+25-06-08.21:55|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.21:55|[walker2d-medium-expert-v2-seed2] Trained Epochs  126
+25-06-08.21:55|[walker2d-medium-expert-v2-seed2] Actor Loss       -0.969559
+25-06-08.21:55|[walker2d-medium-expert-v2-seed2] Critic Loss      30.2724
+25-06-08.21:55|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.21:56|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:56|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    4788.21
+25-06-08.21:56|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.04267
+25-06-08.21:56|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:56|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.21:56|[walker2d-medium-expert-v2-seed2] Trained Epochs  128
+25-06-08.21:56|[walker2d-medium-expert-v2-seed2] Actor Loss       -0.969642
+25-06-08.21:56|[walker2d-medium-expert-v2-seed2] Critic Loss      31.2816
+25-06-08.21:56|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.21:56|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:56|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    5037.19
+25-06-08.21:56|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.09691
+25-06-08.21:56|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:57|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:57|[walker2d-medium-expert-v2-seed2] Trained Epochs  130
+25-06-08.21:57|[walker2d-medium-expert-v2-seed2] Actor Loss       -0.96969
+25-06-08.21:57|[walker2d-medium-expert-v2-seed2] Critic Loss      31.8837
+25-06-08.21:57|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:57|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:57|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    5035.99
+25-06-08.21:57|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.09665
+25-06-08.21:57|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:57|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:57|[walker2d-medium-expert-v2-seed2] Trained Epochs  132
+25-06-08.21:57|[walker2d-medium-expert-v2-seed2] Actor Loss       -0.96965
+25-06-08.21:57|[walker2d-medium-expert-v2-seed2] Critic Loss      29.9626
+25-06-08.21:57|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.21:57|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:57|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    5088.84
+25-06-08.21:57|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.10816
+25-06-08.21:57|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:58|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.21:58|[walker2d-medium-expert-v2-seed2] Trained Epochs  134
+25-06-08.21:58|[walker2d-medium-expert-v2-seed2] Actor Loss       -0.969964
+25-06-08.21:58|[walker2d-medium-expert-v2-seed2] Critic Loss      29.6543
+25-06-08.21:58|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.21:58|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:58|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    5080.92
+25-06-08.21:58|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.10644
+25-06-08.21:58|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:58|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.21:58|[walker2d-medium-expert-v2-seed2] Trained Epochs  136
+25-06-08.21:58|[walker2d-medium-expert-v2-seed2] Actor Loss       -0.969839
+25-06-08.21:58|[walker2d-medium-expert-v2-seed2] Critic Loss      28.9524
+25-06-08.21:58|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.21:58|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:58|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    5033.75
+25-06-08.21:58|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.09616
+25-06-08.21:58|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:59|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.21:59|[walker2d-medium-expert-v2-seed2] Trained Epochs  138
+25-06-08.21:59|[walker2d-medium-expert-v2-seed2] Actor Loss       -0.969952
+25-06-08.21:59|[walker2d-medium-expert-v2-seed2] Critic Loss      30.2453
+25-06-08.21:59|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.21:59|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:59|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    4994.53
+25-06-08.21:59|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.08762
+25-06-08.21:59|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:59|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.21:59|[walker2d-medium-expert-v2-seed2] Trained Epochs  140
+25-06-08.21:59|[walker2d-medium-expert-v2-seed2] Actor Loss       -0.970103
+25-06-08.21:59|[walker2d-medium-expert-v2-seed2] Critic Loss      30.0799
+25-06-08.21:59|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.21:59|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.21:59|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    5045.23
+25-06-08.21:59|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.09866
+25-06-08.21:59|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.22:00|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.22:00|[walker2d-medium-expert-v2-seed2] Trained Epochs  142
+25-06-08.22:00|[walker2d-medium-expert-v2-seed2] Actor Loss       -0.970047
+25-06-08.22:00|[walker2d-medium-expert-v2-seed2] Critic Loss      30.8402
+25-06-08.22:00|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.22:00|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.22:00|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    5074.73
+25-06-08.22:00|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.10509
+25-06-08.22:00|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.22:00|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.22:00|[walker2d-medium-expert-v2-seed2] Trained Epochs  144
+25-06-08.22:00|[walker2d-medium-expert-v2-seed2] Actor Loss       -0.97006
+25-06-08.22:00|[walker2d-medium-expert-v2-seed2] Critic Loss      30.4447
+25-06-08.22:00|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.22:00|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.22:00|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    5044.13
+25-06-08.22:00|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.09842
+25-06-08.22:00|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.22:01|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.22:01|[walker2d-medium-expert-v2-seed2] Trained Epochs  146
+25-06-08.22:01|[walker2d-medium-expert-v2-seed2] Actor Loss       -0.969982
+25-06-08.22:01|[walker2d-medium-expert-v2-seed2] Critic Loss      30.0966
+25-06-08.22:01|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.22:01|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.22:01|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    5093.07
+25-06-08.22:01|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.10908
+25-06-08.22:01|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.22:01|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.22:01|[walker2d-medium-expert-v2-seed2] Trained Epochs  148
+25-06-08.22:01|[walker2d-medium-expert-v2-seed2] Actor Loss       -0.970188
+25-06-08.22:01|[walker2d-medium-expert-v2-seed2] Critic Loss      29.6687
+25-06-08.22:01|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.22:01|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.22:01|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    5026.93
+25-06-08.22:01|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.09468
+25-06-08.22:01|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.22:02|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.22:02|[walker2d-medium-expert-v2-seed2] Trained Epochs  150
+25-06-08.22:02|[walker2d-medium-expert-v2-seed2] Actor Loss       -0.970113
+25-06-08.22:02|[walker2d-medium-expert-v2-seed2] Critic Loss      29.2978
+25-06-08.22:02|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.22:02|[walker2d-medium-expert-v2-seed2] -------------------------  ---------
+25-06-08.22:02|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    5080.3
+25-06-08.22:02|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.1063
+25-06-08.22:02|[walker2d-medium-expert-v2-seed2] -------------------------  ---------
+25-06-08.22:02|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.22:02|[walker2d-medium-expert-v2-seed2] Trained Epochs  152
+25-06-08.22:02|[walker2d-medium-expert-v2-seed2] Actor Loss       -0.970306
+25-06-08.22:02|[walker2d-medium-expert-v2-seed2] Critic Loss      28.318
+25-06-08.22:02|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.22:03|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.22:03|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    5053.52
+25-06-08.22:03|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.10047
+25-06-08.22:03|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.22:03|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.22:03|[walker2d-medium-expert-v2-seed2] Trained Epochs  154
+25-06-08.22:03|[walker2d-medium-expert-v2-seed2] Actor Loss       -0.970209
+25-06-08.22:03|[walker2d-medium-expert-v2-seed2] Critic Loss      29.1027
+25-06-08.22:03|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.22:03|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.22:03|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    5070.85
+25-06-08.22:03|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.10424
+25-06-08.22:03|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.22:03|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.22:03|[walker2d-medium-expert-v2-seed2] Trained Epochs  156
+25-06-08.22:03|[walker2d-medium-expert-v2-seed2] Actor Loss       -0.97035
+25-06-08.22:03|[walker2d-medium-expert-v2-seed2] Critic Loss      30.177
+25-06-08.22:03|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.22:03|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.22:03|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    5104.53
+25-06-08.22:03|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.11158
+25-06-08.22:03|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.22:04|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.22:04|[walker2d-medium-expert-v2-seed2] Trained Epochs  158
+25-06-08.22:04|[walker2d-medium-expert-v2-seed2] Actor Loss       -0.970264
+25-06-08.22:04|[walker2d-medium-expert-v2-seed2] Critic Loss      28.3062
+25-06-08.22:04|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.22:04|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.22:04|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    5051.18
+25-06-08.22:04|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.09996
+25-06-08.22:04|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.22:04|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.22:04|[walker2d-medium-expert-v2-seed2] Trained Epochs  160
+25-06-08.22:04|[walker2d-medium-expert-v2-seed2] Actor Loss       -0.970339
+25-06-08.22:04|[walker2d-medium-expert-v2-seed2] Critic Loss      28.5724
+25-06-08.22:04|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.22:04|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.22:04|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    5053.94
+25-06-08.22:04|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.10056
+25-06-08.22:04|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.22:05|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.22:05|[walker2d-medium-expert-v2-seed2] Trained Epochs  162
+25-06-08.22:05|[walker2d-medium-expert-v2-seed2] Actor Loss       -0.970451
+25-06-08.22:05|[walker2d-medium-expert-v2-seed2] Critic Loss      28.9002
+25-06-08.22:05|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.22:05|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.22:05|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    5041.29
+25-06-08.22:05|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.09781
+25-06-08.22:05|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.22:05|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.22:05|[walker2d-medium-expert-v2-seed2] Trained Epochs  164
+25-06-08.22:05|[walker2d-medium-expert-v2-seed2] Actor Loss       -0.970476
+25-06-08.22:05|[walker2d-medium-expert-v2-seed2] Critic Loss      28.5303
+25-06-08.22:05|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.22:05|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.22:05|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    5043.63
+25-06-08.22:05|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.09831
+25-06-08.22:05|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.22:06|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.22:06|[walker2d-medium-expert-v2-seed2] Trained Epochs  166
+25-06-08.22:06|[walker2d-medium-expert-v2-seed2] Actor Loss       -0.970463
+25-06-08.22:06|[walker2d-medium-expert-v2-seed2] Critic Loss      29.0495
+25-06-08.22:06|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.22:06|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.22:06|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    5091.45
+25-06-08.22:06|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.10873
+25-06-08.22:06|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.22:06|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.22:06|[walker2d-medium-expert-v2-seed2] Trained Epochs  168
+25-06-08.22:06|[walker2d-medium-expert-v2-seed2] Actor Loss       -0.97047
+25-06-08.22:06|[walker2d-medium-expert-v2-seed2] Critic Loss      29.2956
+25-06-08.22:06|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.22:06|[walker2d-medium-expert-v2-seed2] -------------------------  --------
+25-06-08.22:06|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    5046.75
+25-06-08.22:06|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.099
+25-06-08.22:06|[walker2d-medium-expert-v2-seed2] -------------------------  --------
+25-06-08.22:07|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.22:07|[walker2d-medium-expert-v2-seed2] Trained Epochs  170
+25-06-08.22:07|[walker2d-medium-expert-v2-seed2] Actor Loss       -0.97061
+25-06-08.22:07|[walker2d-medium-expert-v2-seed2] Critic Loss      28.2098
+25-06-08.22:07|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.22:07|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.22:07|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    5059.99
+25-06-08.22:07|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.10188
+25-06-08.22:07|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.22:07|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.22:07|[walker2d-medium-expert-v2-seed2] Trained Epochs  172
+25-06-08.22:07|[walker2d-medium-expert-v2-seed2] Actor Loss       -0.970594
+25-06-08.22:07|[walker2d-medium-expert-v2-seed2] Critic Loss      28.7342
+25-06-08.22:07|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.22:07|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.22:07|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    5061.14
+25-06-08.22:07|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.10213
+25-06-08.22:07|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.22:08|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.22:08|[walker2d-medium-expert-v2-seed2] Trained Epochs  174
+25-06-08.22:08|[walker2d-medium-expert-v2-seed2] Actor Loss       -0.970561
+25-06-08.22:08|[walker2d-medium-expert-v2-seed2] Critic Loss      28.3347
+25-06-08.22:08|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.22:08|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.22:08|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    5018.7
+25-06-08.22:08|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.09288
+25-06-08.22:08|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.22:08|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.22:08|[walker2d-medium-expert-v2-seed2] Trained Epochs  176
+25-06-08.22:08|[walker2d-medium-expert-v2-seed2] Actor Loss       -0.970573
+25-06-08.22:08|[walker2d-medium-expert-v2-seed2] Critic Loss      27.4894
+25-06-08.22:08|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.22:08|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.22:08|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    5048.13
+25-06-08.22:08|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.09929
+25-06-08.22:08|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.22:09|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.22:09|[walker2d-medium-expert-v2-seed2] Trained Epochs  178
+25-06-08.22:09|[walker2d-medium-expert-v2-seed2] Actor Loss       -0.970587
+25-06-08.22:09|[walker2d-medium-expert-v2-seed2] Critic Loss      27.6256
+25-06-08.22:09|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.22:09|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.22:09|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    5105.65
+25-06-08.22:09|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.11182
+25-06-08.22:09|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.22:09|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.22:09|[walker2d-medium-expert-v2-seed2] Trained Epochs  180
+25-06-08.22:09|[walker2d-medium-expert-v2-seed2] Actor Loss       -0.970804
+25-06-08.22:09|[walker2d-medium-expert-v2-seed2] Critic Loss      27.8439
+25-06-08.22:09|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.22:09|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.22:09|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    5094.66
+25-06-08.22:09|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.10943
+25-06-08.22:09|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.22:10|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.22:10|[walker2d-medium-expert-v2-seed2] Trained Epochs  182
+25-06-08.22:10|[walker2d-medium-expert-v2-seed2] Actor Loss       -0.970735
+25-06-08.22:10|[walker2d-medium-expert-v2-seed2] Critic Loss      27.9333
+25-06-08.22:10|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.22:10|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.22:10|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    5030.52
+25-06-08.22:10|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.09546
+25-06-08.22:10|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.22:10|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.22:10|[walker2d-medium-expert-v2-seed2] Trained Epochs  184
+25-06-08.22:10|[walker2d-medium-expert-v2-seed2] Actor Loss       -0.970564
+25-06-08.22:10|[walker2d-medium-expert-v2-seed2] Critic Loss      27.4908
+25-06-08.22:10|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.22:10|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.22:10|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    5069.97
+25-06-08.22:10|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.10405
+25-06-08.22:10|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.22:11|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.22:11|[walker2d-medium-expert-v2-seed2] Trained Epochs  186
+25-06-08.22:11|[walker2d-medium-expert-v2-seed2] Actor Loss       -0.970732
+25-06-08.22:11|[walker2d-medium-expert-v2-seed2] Critic Loss      26.535
+25-06-08.22:11|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.22:11|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.22:11|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    5072.33
+25-06-08.22:11|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.10457
+25-06-08.22:11|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.22:11|[walker2d-medium-expert-v2-seed2] --------------  --------
+25-06-08.22:11|[walker2d-medium-expert-v2-seed2] Trained Epochs  188
+25-06-08.22:11|[walker2d-medium-expert-v2-seed2] Actor Loss       -0.9708
+25-06-08.22:11|[walker2d-medium-expert-v2-seed2] Critic Loss      27.3233
+25-06-08.22:11|[walker2d-medium-expert-v2-seed2] --------------  --------
+25-06-08.22:11|[walker2d-medium-expert-v2-seed2] -------------------------  ---------
+25-06-08.22:11|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    5086.27
+25-06-08.22:11|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.1076
+25-06-08.22:11|[walker2d-medium-expert-v2-seed2] -------------------------  ---------
+25-06-08.22:12|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.22:12|[walker2d-medium-expert-v2-seed2] Trained Epochs  190
+25-06-08.22:12|[walker2d-medium-expert-v2-seed2] Actor Loss       -0.970797
+25-06-08.22:12|[walker2d-medium-expert-v2-seed2] Critic Loss      26.9397
+25-06-08.22:12|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.22:12|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.22:12|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    5078.42
+25-06-08.22:12|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.10589
+25-06-08.22:12|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.22:12|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.22:12|[walker2d-medium-expert-v2-seed2] Trained Epochs  192
+25-06-08.22:12|[walker2d-medium-expert-v2-seed2] Actor Loss       -0.970753
+25-06-08.22:12|[walker2d-medium-expert-v2-seed2] Critic Loss      26.635
+25-06-08.22:12|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.22:12|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.22:12|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    5068.67
+25-06-08.22:12|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.10377
+25-06-08.22:12|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.22:13|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.22:13|[walker2d-medium-expert-v2-seed2] Trained Epochs  194
+25-06-08.22:13|[walker2d-medium-expert-v2-seed2] Actor Loss       -0.970979
+25-06-08.22:13|[walker2d-medium-expert-v2-seed2] Critic Loss      25.9847
+25-06-08.22:13|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.22:13|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.22:13|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    5020.96
+25-06-08.22:13|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.09338
+25-06-08.22:13|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.22:13|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.22:13|[walker2d-medium-expert-v2-seed2] Trained Epochs  196
+25-06-08.22:13|[walker2d-medium-expert-v2-seed2] Actor Loss       -0.970972
+25-06-08.22:13|[walker2d-medium-expert-v2-seed2] Critic Loss      26.738
+25-06-08.22:13|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.22:13|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.22:13|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    5040.93
+25-06-08.22:13|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.09773
+25-06-08.22:13|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.22:14|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.22:14|[walker2d-medium-expert-v2-seed2] Trained Epochs  198
+25-06-08.22:14|[walker2d-medium-expert-v2-seed2] Actor Loss       -0.970884
+25-06-08.22:14|[walker2d-medium-expert-v2-seed2] Critic Loss      27.0001
+25-06-08.22:14|[walker2d-medium-expert-v2-seed2] --------------  ----------
+25-06-08.22:14|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.22:14|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    5107.65
+25-06-08.22:14|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.11226
+25-06-08.22:14|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.22:14|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.22:14|[walker2d-medium-expert-v2-seed2] Trained Epochs  200
+25-06-08.22:14|[walker2d-medium-expert-v2-seed2] Actor Loss       -0.97091
+25-06-08.22:14|[walker2d-medium-expert-v2-seed2] Critic Loss      26.2162
+25-06-08.22:14|[walker2d-medium-expert-v2-seed2] --------------  ---------
+25-06-08.22:14|[walker2d-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.22:14|[walker2d-medium-expert-v2-seed2] Average Episodic Reward    4663.4
+25-06-08.22:14|[walker2d-medium-expert-v2-seed2] Average Episodic N-Reward     1.01549
+25-06-08.22:14|[walker2d-medium-expert-v2-seed2] -------------------------  ----------

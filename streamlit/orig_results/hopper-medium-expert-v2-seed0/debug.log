@@ -1,0 +1,900 @@
+25-06-08.22:15|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:15|[hopper-medium-expert-v2-seed0] Trained Epochs   2
+25-06-08.22:15|[hopper-medium-expert-v2-seed0] Actor Loss      -0.858518
+25-06-08.22:15|[hopper-medium-expert-v2-seed0] Critic Loss      0.674547
+25-06-08.22:15|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:15|[hopper-medium-expert-v2-seed0] -------------------------  ---------
+25-06-08.22:15|[hopper-medium-expert-v2-seed0] Average Episodic Reward    498.994
+25-06-08.22:15|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward    0.15955
+25-06-08.22:15|[hopper-medium-expert-v2-seed0] -------------------------  ---------
+25-06-08.22:15|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:15|[hopper-medium-expert-v2-seed0] Trained Epochs   4
+25-06-08.22:15|[hopper-medium-expert-v2-seed0] Actor Loss      -0.888705
+25-06-08.22:15|[hopper-medium-expert-v2-seed0] Critic Loss      1.52163
+25-06-08.22:15|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:15|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:15|[hopper-medium-expert-v2-seed0] Average Episodic Reward    606.13
+25-06-08.22:15|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward    0.192468
+25-06-08.22:15|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:15|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:15|[hopper-medium-expert-v2-seed0] Trained Epochs   6
+25-06-08.22:15|[hopper-medium-expert-v2-seed0] Actor Loss      -0.898378
+25-06-08.22:15|[hopper-medium-expert-v2-seed0] Critic Loss      1.86223
+25-06-08.22:15|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:15|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:15|[hopper-medium-expert-v2-seed0] Average Episodic Reward    544.756
+25-06-08.22:15|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward    0.173611
+25-06-08.22:15|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:16|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:16|[hopper-medium-expert-v2-seed0] Trained Epochs   8
+25-06-08.22:16|[hopper-medium-expert-v2-seed0] Actor Loss      -0.905229
+25-06-08.22:16|[hopper-medium-expert-v2-seed0] Critic Loss      2.93131
+25-06-08.22:16|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:16|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:16|[hopper-medium-expert-v2-seed0] Average Episodic Reward    596.864
+25-06-08.22:16|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward    0.189621
+25-06-08.22:16|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:16|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:16|[hopper-medium-expert-v2-seed0] Trained Epochs  10
+25-06-08.22:16|[hopper-medium-expert-v2-seed0] Actor Loss      -0.910233
+25-06-08.22:16|[hopper-medium-expert-v2-seed0] Critic Loss      3.99745
+25-06-08.22:16|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:16|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:16|[hopper-medium-expert-v2-seed0] Average Episodic Reward    581.422
+25-06-08.22:16|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward    0.184876
+25-06-08.22:16|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:16|[hopper-medium-expert-v2-seed0] --------------  --------
+25-06-08.22:16|[hopper-medium-expert-v2-seed0] Trained Epochs  12
+25-06-08.22:16|[hopper-medium-expert-v2-seed0] Actor Loss      -0.91323
+25-06-08.22:16|[hopper-medium-expert-v2-seed0] Critic Loss      5.90202
+25-06-08.22:16|[hopper-medium-expert-v2-seed0] --------------  --------
+25-06-08.22:16|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:16|[hopper-medium-expert-v2-seed0] Average Episodic Reward    608.419
+25-06-08.22:16|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward    0.193172
+25-06-08.22:16|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:16|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:16|[hopper-medium-expert-v2-seed0] Trained Epochs  14
+25-06-08.22:16|[hopper-medium-expert-v2-seed0] Actor Loss      -0.916469
+25-06-08.22:16|[hopper-medium-expert-v2-seed0] Critic Loss      7.28736
+25-06-08.22:16|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:16|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:16|[hopper-medium-expert-v2-seed0] Average Episodic Reward    963.906
+25-06-08.22:16|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward    0.302399
+25-06-08.22:16|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:17|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:17|[hopper-medium-expert-v2-seed0] Trained Epochs  16
+25-06-08.22:17|[hopper-medium-expert-v2-seed0] Actor Loss      -0.918947
+25-06-08.22:17|[hopper-medium-expert-v2-seed0] Critic Loss      8.58969
+25-06-08.22:17|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:17|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:17|[hopper-medium-expert-v2-seed0] Average Episodic Reward    457.254
+25-06-08.22:17|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward    0.146725
+25-06-08.22:17|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:17|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:17|[hopper-medium-expert-v2-seed0] Trained Epochs  18
+25-06-08.22:17|[hopper-medium-expert-v2-seed0] Actor Loss      -0.921697
+25-06-08.22:17|[hopper-medium-expert-v2-seed0] Critic Loss      9.53422
+25-06-08.22:17|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:17|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:17|[hopper-medium-expert-v2-seed0] Average Episodic Reward    616.227
+25-06-08.22:17|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward    0.195571
+25-06-08.22:17|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:17|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:17|[hopper-medium-expert-v2-seed0] Trained Epochs  20
+25-06-08.22:17|[hopper-medium-expert-v2-seed0] Actor Loss      -0.924188
+25-06-08.22:17|[hopper-medium-expert-v2-seed0] Critic Loss     10.2987
+25-06-08.22:17|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:17|[hopper-medium-expert-v2-seed0] -------------------------  ---------
+25-06-08.22:17|[hopper-medium-expert-v2-seed0] Average Episodic Reward    504.886
+25-06-08.22:17|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward    0.16136
+25-06-08.22:17|[hopper-medium-expert-v2-seed0] -------------------------  ---------
+25-06-08.22:18|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:18|[hopper-medium-expert-v2-seed0] Trained Epochs  22
+25-06-08.22:18|[hopper-medium-expert-v2-seed0] Actor Loss      -0.926319
+25-06-08.22:18|[hopper-medium-expert-v2-seed0] Critic Loss     11.9106
+25-06-08.22:18|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:18|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:18|[hopper-medium-expert-v2-seed0] Average Episodic Reward    781.939
+25-06-08.22:18|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward    0.246487
+25-06-08.22:18|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:18|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:18|[hopper-medium-expert-v2-seed0] Trained Epochs  24
+25-06-08.22:18|[hopper-medium-expert-v2-seed0] Actor Loss      -0.928392
+25-06-08.22:18|[hopper-medium-expert-v2-seed0] Critic Loss     13.1067
+25-06-08.22:18|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:18|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:18|[hopper-medium-expert-v2-seed0] Average Episodic Reward    908.592
+25-06-08.22:18|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward    0.285403
+25-06-08.22:18|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:18|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:18|[hopper-medium-expert-v2-seed0] Trained Epochs  26
+25-06-08.22:18|[hopper-medium-expert-v2-seed0] Actor Loss      -0.930864
+25-06-08.22:18|[hopper-medium-expert-v2-seed0] Critic Loss     11.9392
+25-06-08.22:18|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:18|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:18|[hopper-medium-expert-v2-seed0] Average Episodic Reward    659.495
+25-06-08.22:18|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward    0.208865
+25-06-08.22:18|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:18|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:18|[hopper-medium-expert-v2-seed0] Trained Epochs  28
+25-06-08.22:18|[hopper-medium-expert-v2-seed0] Actor Loss      -0.932637
+25-06-08.22:18|[hopper-medium-expert-v2-seed0] Critic Loss     10.4395
+25-06-08.22:18|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:19|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:19|[hopper-medium-expert-v2-seed0] Average Episodic Reward    1261.08
+25-06-08.22:19|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.393709
+25-06-08.22:19|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:19|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:19|[hopper-medium-expert-v2-seed0] Trained Epochs  30
+25-06-08.22:19|[hopper-medium-expert-v2-seed0] Actor Loss      -0.934239
+25-06-08.22:19|[hopper-medium-expert-v2-seed0] Critic Loss     10.4936
+25-06-08.22:19|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:19|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:19|[hopper-medium-expert-v2-seed0] Average Episodic Reward    868.977
+25-06-08.22:19|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward    0.273231
+25-06-08.22:19|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:19|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:19|[hopper-medium-expert-v2-seed0] Trained Epochs  32
+25-06-08.22:19|[hopper-medium-expert-v2-seed0] Actor Loss      -0.935694
+25-06-08.22:19|[hopper-medium-expert-v2-seed0] Critic Loss     10.6649
+25-06-08.22:19|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:19|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:19|[hopper-medium-expert-v2-seed0] Average Episodic Reward    1168.69
+25-06-08.22:19|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.365319
+25-06-08.22:19|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:19|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:19|[hopper-medium-expert-v2-seed0] Trained Epochs  34
+25-06-08.22:19|[hopper-medium-expert-v2-seed0] Actor Loss      -0.936723
+25-06-08.22:19|[hopper-medium-expert-v2-seed0] Critic Loss     10.4422
+25-06-08.22:19|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:20|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:20|[hopper-medium-expert-v2-seed0] Average Episodic Reward    1157.56
+25-06-08.22:20|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.361901
+25-06-08.22:20|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:20|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:20|[hopper-medium-expert-v2-seed0] Trained Epochs  36
+25-06-08.22:20|[hopper-medium-expert-v2-seed0] Actor Loss      -0.938043
+25-06-08.22:20|[hopper-medium-expert-v2-seed0] Critic Loss     10.4666
+25-06-08.22:20|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:20|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:20|[hopper-medium-expert-v2-seed0] Average Episodic Reward    1045.13
+25-06-08.22:20|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.327354
+25-06-08.22:20|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:20|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:20|[hopper-medium-expert-v2-seed0] Trained Epochs  38
+25-06-08.22:20|[hopper-medium-expert-v2-seed0] Actor Loss      -0.939331
+25-06-08.22:20|[hopper-medium-expert-v2-seed0] Critic Loss     10.6081
+25-06-08.22:20|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:20|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:20|[hopper-medium-expert-v2-seed0] Average Episodic Reward    1696.85
+25-06-08.22:20|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.527604
+25-06-08.22:20|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:20|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:20|[hopper-medium-expert-v2-seed0] Trained Epochs  40
+25-06-08.22:20|[hopper-medium-expert-v2-seed0] Actor Loss      -0.940389
+25-06-08.22:20|[hopper-medium-expert-v2-seed0] Critic Loss     10.9152
+25-06-08.22:20|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:21|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:21|[hopper-medium-expert-v2-seed0] Average Episodic Reward    676.312
+25-06-08.22:21|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward    0.214033
+25-06-08.22:21|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:21|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:21|[hopper-medium-expert-v2-seed0] Trained Epochs  42
+25-06-08.22:21|[hopper-medium-expert-v2-seed0] Actor Loss      -0.940925
+25-06-08.22:21|[hopper-medium-expert-v2-seed0] Critic Loss     11.3084
+25-06-08.22:21|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:21|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:21|[hopper-medium-expert-v2-seed0] Average Episodic Reward    971.714
+25-06-08.22:21|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward    0.304798
+25-06-08.22:21|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:21|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:21|[hopper-medium-expert-v2-seed0] Trained Epochs  44
+25-06-08.22:21|[hopper-medium-expert-v2-seed0] Actor Loss      -0.941896
+25-06-08.22:21|[hopper-medium-expert-v2-seed0] Critic Loss     11.5233
+25-06-08.22:21|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:21|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:21|[hopper-medium-expert-v2-seed0] Average Episodic Reward    899.131
+25-06-08.22:21|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward    0.282496
+25-06-08.22:21|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:21|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:21|[hopper-medium-expert-v2-seed0] Trained Epochs  46
+25-06-08.22:21|[hopper-medium-expert-v2-seed0] Actor Loss      -0.942797
+25-06-08.22:21|[hopper-medium-expert-v2-seed0] Critic Loss     10.7017
+25-06-08.22:21|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:21|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:21|[hopper-medium-expert-v2-seed0] Average Episodic Reward    1043.32
+25-06-08.22:21|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.326799
+25-06-08.22:21|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:22|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:22|[hopper-medium-expert-v2-seed0] Trained Epochs  48
+25-06-08.22:22|[hopper-medium-expert-v2-seed0] Actor Loss      -0.943361
+25-06-08.22:22|[hopper-medium-expert-v2-seed0] Critic Loss     10.1707
+25-06-08.22:22|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:22|[hopper-medium-expert-v2-seed0] -------------------------  --------
+25-06-08.22:22|[hopper-medium-expert-v2-seed0] Average Episodic Reward    767.661
+25-06-08.22:22|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward    0.2421
+25-06-08.22:22|[hopper-medium-expert-v2-seed0] -------------------------  --------
+25-06-08.22:22|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:22|[hopper-medium-expert-v2-seed0] Trained Epochs  50
+25-06-08.22:22|[hopper-medium-expert-v2-seed0] Actor Loss      -0.944382
+25-06-08.22:22|[hopper-medium-expert-v2-seed0] Critic Loss      9.55949
+25-06-08.22:22|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:22|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:22|[hopper-medium-expert-v2-seed0] Average Episodic Reward    587.501
+25-06-08.22:22|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward    0.186744
+25-06-08.22:22|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:22|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:22|[hopper-medium-expert-v2-seed0] Trained Epochs  52
+25-06-08.22:22|[hopper-medium-expert-v2-seed0] Actor Loss      -0.944772
+25-06-08.22:22|[hopper-medium-expert-v2-seed0] Critic Loss      9.49828
+25-06-08.22:22|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:22|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:22|[hopper-medium-expert-v2-seed0] Average Episodic Reward    1537.64
+25-06-08.22:22|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.478683
+25-06-08.22:22|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:23|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:23|[hopper-medium-expert-v2-seed0] Trained Epochs  54
+25-06-08.22:23|[hopper-medium-expert-v2-seed0] Actor Loss      -0.945335
+25-06-08.22:23|[hopper-medium-expert-v2-seed0] Critic Loss      9.40157
+25-06-08.22:23|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:23|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:23|[hopper-medium-expert-v2-seed0] Average Episodic Reward    1043.37
+25-06-08.22:23|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.326813
+25-06-08.22:23|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:23|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:23|[hopper-medium-expert-v2-seed0] Trained Epochs  56
+25-06-08.22:23|[hopper-medium-expert-v2-seed0] Actor Loss      -0.945852
+25-06-08.22:23|[hopper-medium-expert-v2-seed0] Critic Loss      9.05733
+25-06-08.22:23|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:23|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:23|[hopper-medium-expert-v2-seed0] Average Episodic Reward    1436.59
+25-06-08.22:23|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.447637
+25-06-08.22:23|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:23|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:23|[hopper-medium-expert-v2-seed0] Trained Epochs  58
+25-06-08.22:23|[hopper-medium-expert-v2-seed0] Actor Loss      -0.946206
+25-06-08.22:23|[hopper-medium-expert-v2-seed0] Critic Loss      9.28267
+25-06-08.22:23|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:23|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:23|[hopper-medium-expert-v2-seed0] Average Episodic Reward    2067.46
+25-06-08.22:23|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.641478
+25-06-08.22:23|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:24|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:24|[hopper-medium-expert-v2-seed0] Trained Epochs  60
+25-06-08.22:24|[hopper-medium-expert-v2-seed0] Actor Loss      -0.946605
+25-06-08.22:24|[hopper-medium-expert-v2-seed0] Critic Loss     10.1271
+25-06-08.22:24|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:24|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:24|[hopper-medium-expert-v2-seed0] Average Episodic Reward    1784.93
+25-06-08.22:24|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.554666
+25-06-08.22:24|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:24|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:24|[hopper-medium-expert-v2-seed0] Trained Epochs  62
+25-06-08.22:24|[hopper-medium-expert-v2-seed0] Actor Loss      -0.946984
+25-06-08.22:24|[hopper-medium-expert-v2-seed0] Critic Loss     11.1914
+25-06-08.22:24|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:24|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:24|[hopper-medium-expert-v2-seed0] Average Episodic Reward    1340.98
+25-06-08.22:24|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.418257
+25-06-08.22:24|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:24|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:24|[hopper-medium-expert-v2-seed0] Trained Epochs  64
+25-06-08.22:24|[hopper-medium-expert-v2-seed0] Actor Loss      -0.947205
+25-06-08.22:24|[hopper-medium-expert-v2-seed0] Critic Loss     10.7733
+25-06-08.22:24|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:25|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:25|[hopper-medium-expert-v2-seed0] Average Episodic Reward    1927.78
+25-06-08.22:25|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.598558
+25-06-08.22:25|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:25|[hopper-medium-expert-v2-seed0] --------------  --------
+25-06-08.22:25|[hopper-medium-expert-v2-seed0] Trained Epochs  66
+25-06-08.22:25|[hopper-medium-expert-v2-seed0] Actor Loss      -0.94742
+25-06-08.22:25|[hopper-medium-expert-v2-seed0] Critic Loss     11.1493
+25-06-08.22:25|[hopper-medium-expert-v2-seed0] --------------  --------
+25-06-08.22:25|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:25|[hopper-medium-expert-v2-seed0] Average Episodic Reward    1978.13
+25-06-08.22:25|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.61403
+25-06-08.22:25|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:25|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:25|[hopper-medium-expert-v2-seed0] Trained Epochs  68
+25-06-08.22:25|[hopper-medium-expert-v2-seed0] Actor Loss      -0.947945
+25-06-08.22:25|[hopper-medium-expert-v2-seed0] Critic Loss     11.4614
+25-06-08.22:25|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:25|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:25|[hopper-medium-expert-v2-seed0] Average Episodic Reward    1891
+25-06-08.22:25|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.587259
+25-06-08.22:25|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:26|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:26|[hopper-medium-expert-v2-seed0] Trained Epochs  70
+25-06-08.22:26|[hopper-medium-expert-v2-seed0] Actor Loss      -0.948116
+25-06-08.22:26|[hopper-medium-expert-v2-seed0] Critic Loss     11.4629
+25-06-08.22:26|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:26|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:26|[hopper-medium-expert-v2-seed0] Average Episodic Reward    1603.13
+25-06-08.22:26|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.498808
+25-06-08.22:26|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:26|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:26|[hopper-medium-expert-v2-seed0] Trained Epochs  72
+25-06-08.22:26|[hopper-medium-expert-v2-seed0] Actor Loss      -0.948312
+25-06-08.22:26|[hopper-medium-expert-v2-seed0] Critic Loss     11.695
+25-06-08.22:26|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:26|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:26|[hopper-medium-expert-v2-seed0] Average Episodic Reward    670.135
+25-06-08.22:26|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward    0.212135
+25-06-08.22:26|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:26|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:26|[hopper-medium-expert-v2-seed0] Trained Epochs  74
+25-06-08.22:26|[hopper-medium-expert-v2-seed0] Actor Loss      -0.948884
+25-06-08.22:26|[hopper-medium-expert-v2-seed0] Critic Loss     12.1058
+25-06-08.22:26|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:26|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:26|[hopper-medium-expert-v2-seed0] Average Episodic Reward    2064.25
+25-06-08.22:26|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.640491
+25-06-08.22:26|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:27|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:27|[hopper-medium-expert-v2-seed0] Trained Epochs  76
+25-06-08.22:27|[hopper-medium-expert-v2-seed0] Actor Loss      -0.949059
+25-06-08.22:27|[hopper-medium-expert-v2-seed0] Critic Loss     11.7859
+25-06-08.22:27|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:27|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:27|[hopper-medium-expert-v2-seed0] Average Episodic Reward    1369.34
+25-06-08.22:27|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.426972
+25-06-08.22:27|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:27|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:27|[hopper-medium-expert-v2-seed0] Trained Epochs  78
+25-06-08.22:27|[hopper-medium-expert-v2-seed0] Actor Loss      -0.949239
+25-06-08.22:27|[hopper-medium-expert-v2-seed0] Critic Loss     11.6249
+25-06-08.22:27|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:27|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:27|[hopper-medium-expert-v2-seed0] Average Episodic Reward    1216.79
+25-06-08.22:27|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.380099
+25-06-08.22:27|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:27|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:27|[hopper-medium-expert-v2-seed0] Trained Epochs  80
+25-06-08.22:27|[hopper-medium-expert-v2-seed0] Actor Loss      -0.949679
+25-06-08.22:27|[hopper-medium-expert-v2-seed0] Critic Loss     11.6225
+25-06-08.22:27|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:27|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:27|[hopper-medium-expert-v2-seed0] Average Episodic Reward    2531.45
+25-06-08.22:27|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.784041
+25-06-08.22:27|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:28|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:28|[hopper-medium-expert-v2-seed0] Trained Epochs  82
+25-06-08.22:28|[hopper-medium-expert-v2-seed0] Actor Loss      -0.949559
+25-06-08.22:28|[hopper-medium-expert-v2-seed0] Critic Loss     12.0348
+25-06-08.22:28|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:28|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:28|[hopper-medium-expert-v2-seed0] Average Episodic Reward    1837.53
+25-06-08.22:28|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.570828
+25-06-08.22:28|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:28|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:28|[hopper-medium-expert-v2-seed0] Trained Epochs  84
+25-06-08.22:28|[hopper-medium-expert-v2-seed0] Actor Loss      -0.949569
+25-06-08.22:28|[hopper-medium-expert-v2-seed0] Critic Loss     11.668
+25-06-08.22:28|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:28|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:28|[hopper-medium-expert-v2-seed0] Average Episodic Reward    2099.32
+25-06-08.22:28|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.651266
+25-06-08.22:28|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:28|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:28|[hopper-medium-expert-v2-seed0] Trained Epochs  86
+25-06-08.22:28|[hopper-medium-expert-v2-seed0] Actor Loss      -0.950141
+25-06-08.22:28|[hopper-medium-expert-v2-seed0] Critic Loss     11.4983
+25-06-08.22:28|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:28|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:28|[hopper-medium-expert-v2-seed0] Average Episodic Reward    1435.79
+25-06-08.22:28|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.447389
+25-06-08.22:28|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:29|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:29|[hopper-medium-expert-v2-seed0] Trained Epochs  88
+25-06-08.22:29|[hopper-medium-expert-v2-seed0] Actor Loss      -0.950449
+25-06-08.22:29|[hopper-medium-expert-v2-seed0] Critic Loss     11.6058
+25-06-08.22:29|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:29|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:29|[hopper-medium-expert-v2-seed0] Average Episodic Reward    1000.06
+25-06-08.22:29|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.313508
+25-06-08.22:29|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:29|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:29|[hopper-medium-expert-v2-seed0] Trained Epochs  90
+25-06-08.22:29|[hopper-medium-expert-v2-seed0] Actor Loss      -0.950235
+25-06-08.22:29|[hopper-medium-expert-v2-seed0] Critic Loss     11.6431
+25-06-08.22:29|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:29|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:29|[hopper-medium-expert-v2-seed0] Average Episodic Reward    2244.44
+25-06-08.22:29|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.695855
+25-06-08.22:29|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:29|[hopper-medium-expert-v2-seed0] --------------  --------
+25-06-08.22:29|[hopper-medium-expert-v2-seed0] Trained Epochs  92
+25-06-08.22:29|[hopper-medium-expert-v2-seed0] Actor Loss      -0.95088
+25-06-08.22:29|[hopper-medium-expert-v2-seed0] Critic Loss     11.6194
+25-06-08.22:29|[hopper-medium-expert-v2-seed0] --------------  --------
+25-06-08.22:30|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:30|[hopper-medium-expert-v2-seed0] Average Episodic Reward    2551.85
+25-06-08.22:30|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.790309
+25-06-08.22:30|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:30|[hopper-medium-expert-v2-seed0] --------------  --------
+25-06-08.22:30|[hopper-medium-expert-v2-seed0] Trained Epochs  94
+25-06-08.22:30|[hopper-medium-expert-v2-seed0] Actor Loss      -0.95097
+25-06-08.22:30|[hopper-medium-expert-v2-seed0] Critic Loss     11.5701
+25-06-08.22:30|[hopper-medium-expert-v2-seed0] --------------  --------
+25-06-08.22:30|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:30|[hopper-medium-expert-v2-seed0] Average Episodic Reward    2494.7
+25-06-08.22:30|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.77275
+25-06-08.22:30|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:30|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:30|[hopper-medium-expert-v2-seed0] Trained Epochs  96
+25-06-08.22:30|[hopper-medium-expert-v2-seed0] Actor Loss      -0.951045
+25-06-08.22:30|[hopper-medium-expert-v2-seed0] Critic Loss     11.6723
+25-06-08.22:30|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:30|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:30|[hopper-medium-expert-v2-seed0] Average Episodic Reward    2416.68
+25-06-08.22:30|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.748777
+25-06-08.22:30|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:31|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:31|[hopper-medium-expert-v2-seed0] Trained Epochs  98
+25-06-08.22:31|[hopper-medium-expert-v2-seed0] Actor Loss      -0.951029
+25-06-08.22:31|[hopper-medium-expert-v2-seed0] Critic Loss     10.9485
+25-06-08.22:31|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:31|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:31|[hopper-medium-expert-v2-seed0] Average Episodic Reward    2763.41
+25-06-08.22:31|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.855314
+25-06-08.22:31|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:31|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:31|[hopper-medium-expert-v2-seed0] Trained Epochs  100
+25-06-08.22:31|[hopper-medium-expert-v2-seed0] Actor Loss       -0.951266
+25-06-08.22:31|[hopper-medium-expert-v2-seed0] Critic Loss      11.5597
+25-06-08.22:31|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:31|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:31|[hopper-medium-expert-v2-seed0] Average Episodic Reward    1195.52
+25-06-08.22:31|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.373564
+25-06-08.22:31|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:31|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:31|[hopper-medium-expert-v2-seed0] Trained Epochs  102
+25-06-08.22:31|[hopper-medium-expert-v2-seed0] Actor Loss       -0.951598
+25-06-08.22:31|[hopper-medium-expert-v2-seed0] Critic Loss      11.014
+25-06-08.22:31|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:32|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:32|[hopper-medium-expert-v2-seed0] Average Episodic Reward    2016.82
+25-06-08.22:32|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.625916
+25-06-08.22:32|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:32|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:32|[hopper-medium-expert-v2-seed0] Trained Epochs  104
+25-06-08.22:32|[hopper-medium-expert-v2-seed0] Actor Loss       -0.951601
+25-06-08.22:32|[hopper-medium-expert-v2-seed0] Critic Loss      11.6029
+25-06-08.22:32|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:32|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:32|[hopper-medium-expert-v2-seed0] Average Episodic Reward    3003.85
+25-06-08.22:32|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.92919
+25-06-08.22:32|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:32|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:32|[hopper-medium-expert-v2-seed0] Trained Epochs  106
+25-06-08.22:32|[hopper-medium-expert-v2-seed0] Actor Loss       -0.951758
+25-06-08.22:32|[hopper-medium-expert-v2-seed0] Critic Loss      11.4226
+25-06-08.22:32|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:33|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:33|[hopper-medium-expert-v2-seed0] Average Episodic Reward    2860.01
+25-06-08.22:33|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.884996
+25-06-08.22:33|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:33|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:33|[hopper-medium-expert-v2-seed0] Trained Epochs  108
+25-06-08.22:33|[hopper-medium-expert-v2-seed0] Actor Loss       -0.951738
+25-06-08.22:33|[hopper-medium-expert-v2-seed0] Critic Loss      10.822
+25-06-08.22:33|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:33|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:33|[hopper-medium-expert-v2-seed0] Average Episodic Reward    2719.79
+25-06-08.22:33|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.841911
+25-06-08.22:33|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:33|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:33|[hopper-medium-expert-v2-seed0] Trained Epochs  110
+25-06-08.22:33|[hopper-medium-expert-v2-seed0] Actor Loss       -0.951815
+25-06-08.22:33|[hopper-medium-expert-v2-seed0] Critic Loss      11.2281
+25-06-08.22:33|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:33|[hopper-medium-expert-v2-seed0] -------------------------  ---------
+25-06-08.22:33|[hopper-medium-expert-v2-seed0] Average Episodic Reward    2635.79
+25-06-08.22:33|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.8161
+25-06-08.22:33|[hopper-medium-expert-v2-seed0] -------------------------  ---------
+25-06-08.22:34|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:34|[hopper-medium-expert-v2-seed0] Trained Epochs  112
+25-06-08.22:34|[hopper-medium-expert-v2-seed0] Actor Loss       -0.952169
+25-06-08.22:34|[hopper-medium-expert-v2-seed0] Critic Loss      11.0533
+25-06-08.22:34|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:34|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:34|[hopper-medium-expert-v2-seed0] Average Episodic Reward    3038.1
+25-06-08.22:34|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.939717
+25-06-08.22:34|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:34|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:34|[hopper-medium-expert-v2-seed0] Trained Epochs  114
+25-06-08.22:34|[hopper-medium-expert-v2-seed0] Actor Loss       -0.952088
+25-06-08.22:34|[hopper-medium-expert-v2-seed0] Critic Loss      10.6553
+25-06-08.22:34|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:34|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:34|[hopper-medium-expert-v2-seed0] Average Episodic Reward    1609.5
+25-06-08.22:34|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.500763
+25-06-08.22:34|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:35|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:35|[hopper-medium-expert-v2-seed0] Trained Epochs  116
+25-06-08.22:35|[hopper-medium-expert-v2-seed0] Actor Loss       -0.95265
+25-06-08.22:35|[hopper-medium-expert-v2-seed0] Critic Loss      10.5301
+25-06-08.22:35|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:35|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:35|[hopper-medium-expert-v2-seed0] Average Episodic Reward    2205.86
+25-06-08.22:35|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.684001
+25-06-08.22:35|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:35|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:35|[hopper-medium-expert-v2-seed0] Trained Epochs  118
+25-06-08.22:35|[hopper-medium-expert-v2-seed0] Actor Loss       -0.952478
+25-06-08.22:35|[hopper-medium-expert-v2-seed0] Critic Loss      10.7776
+25-06-08.22:35|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:35|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:35|[hopper-medium-expert-v2-seed0] Average Episodic Reward    2754.23
+25-06-08.22:35|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.852493
+25-06-08.22:35|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:36|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:36|[hopper-medium-expert-v2-seed0] Trained Epochs  120
+25-06-08.22:36|[hopper-medium-expert-v2-seed0] Actor Loss       -0.952417
+25-06-08.22:36|[hopper-medium-expert-v2-seed0] Critic Loss      10.5764
+25-06-08.22:36|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:36|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:36|[hopper-medium-expert-v2-seed0] Average Episodic Reward    2020.28
+25-06-08.22:36|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.626979
+25-06-08.22:36|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:36|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:36|[hopper-medium-expert-v2-seed0] Trained Epochs  122
+25-06-08.22:36|[hopper-medium-expert-v2-seed0] Actor Loss       -0.952803
+25-06-08.22:36|[hopper-medium-expert-v2-seed0] Critic Loss      10.5644
+25-06-08.22:36|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:36|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:36|[hopper-medium-expert-v2-seed0] Average Episodic Reward    2362.73
+25-06-08.22:36|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.732201
+25-06-08.22:36|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:36|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:36|[hopper-medium-expert-v2-seed0] Trained Epochs  124
+25-06-08.22:36|[hopper-medium-expert-v2-seed0] Actor Loss       -0.952752
+25-06-08.22:36|[hopper-medium-expert-v2-seed0] Critic Loss      10.2591
+25-06-08.22:36|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:36|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:36|[hopper-medium-expert-v2-seed0] Average Episodic Reward    2126.48
+25-06-08.22:36|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.659613
+25-06-08.22:36|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:37|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:37|[hopper-medium-expert-v2-seed0] Trained Epochs  126
+25-06-08.22:37|[hopper-medium-expert-v2-seed0] Actor Loss       -0.953023
+25-06-08.22:37|[hopper-medium-expert-v2-seed0] Critic Loss      10.6393
+25-06-08.22:37|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:37|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:37|[hopper-medium-expert-v2-seed0] Average Episodic Reward    2378.49
+25-06-08.22:37|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.737045
+25-06-08.22:37|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:37|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:37|[hopper-medium-expert-v2-seed0] Trained Epochs  128
+25-06-08.22:37|[hopper-medium-expert-v2-seed0] Actor Loss       -0.95301
+25-06-08.22:37|[hopper-medium-expert-v2-seed0] Critic Loss      10.239
+25-06-08.22:37|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:37|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:37|[hopper-medium-expert-v2-seed0] Average Episodic Reward    2062.38
+25-06-08.22:37|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.639916
+25-06-08.22:37|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:37|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:37|[hopper-medium-expert-v2-seed0] Trained Epochs  130
+25-06-08.22:37|[hopper-medium-expert-v2-seed0] Actor Loss       -0.95297
+25-06-08.22:37|[hopper-medium-expert-v2-seed0] Critic Loss      10.2202
+25-06-08.22:37|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:38|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:38|[hopper-medium-expert-v2-seed0] Average Episodic Reward    1676.67
+25-06-08.22:38|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.521402
+25-06-08.22:38|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:38|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:38|[hopper-medium-expert-v2-seed0] Trained Epochs  132
+25-06-08.22:38|[hopper-medium-expert-v2-seed0] Actor Loss       -0.953189
+25-06-08.22:38|[hopper-medium-expert-v2-seed0] Critic Loss      10.3594
+25-06-08.22:38|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:38|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:38|[hopper-medium-expert-v2-seed0] Average Episodic Reward    2889.45
+25-06-08.22:38|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.89404
+25-06-08.22:38|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:38|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:38|[hopper-medium-expert-v2-seed0] Trained Epochs  134
+25-06-08.22:38|[hopper-medium-expert-v2-seed0] Actor Loss       -0.953044
+25-06-08.22:38|[hopper-medium-expert-v2-seed0] Critic Loss      10.7028
+25-06-08.22:38|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:39|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:39|[hopper-medium-expert-v2-seed0] Average Episodic Reward    2848.48
+25-06-08.22:39|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.881453
+25-06-08.22:39|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:39|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:39|[hopper-medium-expert-v2-seed0] Trained Epochs  136
+25-06-08.22:39|[hopper-medium-expert-v2-seed0] Actor Loss       -0.953224
+25-06-08.22:39|[hopper-medium-expert-v2-seed0] Critic Loss      10.204
+25-06-08.22:39|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:39|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:39|[hopper-medium-expert-v2-seed0] Average Episodic Reward    2462.72
+25-06-08.22:39|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.762923
+25-06-08.22:39|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:39|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:39|[hopper-medium-expert-v2-seed0] Trained Epochs  138
+25-06-08.22:39|[hopper-medium-expert-v2-seed0] Actor Loss       -0.953353
+25-06-08.22:39|[hopper-medium-expert-v2-seed0] Critic Loss       9.96764
+25-06-08.22:39|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:39|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:39|[hopper-medium-expert-v2-seed0] Average Episodic Reward    3098.47
+25-06-08.22:39|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.958265
+25-06-08.22:39|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:40|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:40|[hopper-medium-expert-v2-seed0] Trained Epochs  140
+25-06-08.22:40|[hopper-medium-expert-v2-seed0] Actor Loss       -0.953491
+25-06-08.22:40|[hopper-medium-expert-v2-seed0] Critic Loss       9.95091
+25-06-08.22:40|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:40|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:40|[hopper-medium-expert-v2-seed0] Average Episodic Reward    2270.53
+25-06-08.22:40|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.703872
+25-06-08.22:40|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:40|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:40|[hopper-medium-expert-v2-seed0] Trained Epochs  142
+25-06-08.22:40|[hopper-medium-expert-v2-seed0] Actor Loss       -0.95333
+25-06-08.22:40|[hopper-medium-expert-v2-seed0] Critic Loss      10.0326
+25-06-08.22:40|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:40|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:40|[hopper-medium-expert-v2-seed0] Average Episodic Reward    1509.55
+25-06-08.22:40|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.470054
+25-06-08.22:40|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:41|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:41|[hopper-medium-expert-v2-seed0] Trained Epochs  144
+25-06-08.22:41|[hopper-medium-expert-v2-seed0] Actor Loss       -0.953552
+25-06-08.22:41|[hopper-medium-expert-v2-seed0] Critic Loss       9.83089
+25-06-08.22:41|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:41|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:41|[hopper-medium-expert-v2-seed0] Average Episodic Reward    2803.46
+25-06-08.22:41|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.86762
+25-06-08.22:41|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:41|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:41|[hopper-medium-expert-v2-seed0] Trained Epochs  146
+25-06-08.22:41|[hopper-medium-expert-v2-seed0] Actor Loss       -0.953391
+25-06-08.22:41|[hopper-medium-expert-v2-seed0] Critic Loss       9.77507
+25-06-08.22:41|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:41|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:41|[hopper-medium-expert-v2-seed0] Average Episodic Reward    2958.51
+25-06-08.22:41|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.915261
+25-06-08.22:41|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:41|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:41|[hopper-medium-expert-v2-seed0] Trained Epochs  148
+25-06-08.22:41|[hopper-medium-expert-v2-seed0] Actor Loss       -0.953597
+25-06-08.22:41|[hopper-medium-expert-v2-seed0] Critic Loss      10.3701
+25-06-08.22:41|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:42|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:42|[hopper-medium-expert-v2-seed0] Average Episodic Reward    831.91
+25-06-08.22:42|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward    0.261841
+25-06-08.22:42|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:42|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:42|[hopper-medium-expert-v2-seed0] Trained Epochs  150
+25-06-08.22:42|[hopper-medium-expert-v2-seed0] Actor Loss       -0.95365
+25-06-08.22:42|[hopper-medium-expert-v2-seed0] Critic Loss       9.56391
+25-06-08.22:42|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:42|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:42|[hopper-medium-expert-v2-seed0] Average Episodic Reward    2278.25
+25-06-08.22:42|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.706244
+25-06-08.22:42|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:42|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:42|[hopper-medium-expert-v2-seed0] Trained Epochs  152
+25-06-08.22:42|[hopper-medium-expert-v2-seed0] Actor Loss       -0.95386
+25-06-08.22:42|[hopper-medium-expert-v2-seed0] Critic Loss      10.24
+25-06-08.22:42|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:42|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:42|[hopper-medium-expert-v2-seed0] Average Episodic Reward    2892.54
+25-06-08.22:42|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.894992
+25-06-08.22:42|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:43|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:43|[hopper-medium-expert-v2-seed0] Trained Epochs  154
+25-06-08.22:43|[hopper-medium-expert-v2-seed0] Actor Loss       -0.953824
+25-06-08.22:43|[hopper-medium-expert-v2-seed0] Critic Loss       9.84323
+25-06-08.22:43|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:43|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:43|[hopper-medium-expert-v2-seed0] Average Episodic Reward    3394.66
+25-06-08.22:43|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     1.04927
+25-06-08.22:43|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:43|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:43|[hopper-medium-expert-v2-seed0] Trained Epochs  156
+25-06-08.22:43|[hopper-medium-expert-v2-seed0] Actor Loss       -0.953774
+25-06-08.22:43|[hopper-medium-expert-v2-seed0] Critic Loss       9.64026
+25-06-08.22:43|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:43|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:43|[hopper-medium-expert-v2-seed0] Average Episodic Reward    2569.04
+25-06-08.22:43|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.795592
+25-06-08.22:43|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:44|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:44|[hopper-medium-expert-v2-seed0] Trained Epochs  158
+25-06-08.22:44|[hopper-medium-expert-v2-seed0] Actor Loss       -0.954195
+25-06-08.22:44|[hopper-medium-expert-v2-seed0] Critic Loss      10.0629
+25-06-08.22:44|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:44|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:44|[hopper-medium-expert-v2-seed0] Average Episodic Reward    2749.08
+25-06-08.22:44|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.85091
+25-06-08.22:44|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:44|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:44|[hopper-medium-expert-v2-seed0] Trained Epochs  160
+25-06-08.22:44|[hopper-medium-expert-v2-seed0] Actor Loss       -0.954011
+25-06-08.22:44|[hopper-medium-expert-v2-seed0] Critic Loss       9.61855
+25-06-08.22:44|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:44|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:44|[hopper-medium-expert-v2-seed0] Average Episodic Reward    1731.88
+25-06-08.22:44|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.538368
+25-06-08.22:44|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:45|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:45|[hopper-medium-expert-v2-seed0] Trained Epochs  162
+25-06-08.22:45|[hopper-medium-expert-v2-seed0] Actor Loss       -0.954128
+25-06-08.22:45|[hopper-medium-expert-v2-seed0] Critic Loss      10.3029
+25-06-08.22:45|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:45|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:45|[hopper-medium-expert-v2-seed0] Average Episodic Reward    3529.28
+25-06-08.22:45|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     1.09063
+25-06-08.22:45|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:45|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:45|[hopper-medium-expert-v2-seed0] Trained Epochs  164
+25-06-08.22:45|[hopper-medium-expert-v2-seed0] Actor Loss       -0.954122
+25-06-08.22:45|[hopper-medium-expert-v2-seed0] Critic Loss      10.2263
+25-06-08.22:45|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:45|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:45|[hopper-medium-expert-v2-seed0] Average Episodic Reward    3129.33
+25-06-08.22:45|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.967748
+25-06-08.22:45|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:46|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:46|[hopper-medium-expert-v2-seed0] Trained Epochs  166
+25-06-08.22:46|[hopper-medium-expert-v2-seed0] Actor Loss       -0.954362
+25-06-08.22:46|[hopper-medium-expert-v2-seed0] Critic Loss       9.76078
+25-06-08.22:46|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:46|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:46|[hopper-medium-expert-v2-seed0] Average Episodic Reward    1375.06
+25-06-08.22:46|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.42873
+25-06-08.22:46|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:46|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:46|[hopper-medium-expert-v2-seed0] Trained Epochs  168
+25-06-08.22:46|[hopper-medium-expert-v2-seed0] Actor Loss       -0.954399
+25-06-08.22:46|[hopper-medium-expert-v2-seed0] Critic Loss      10.2335
+25-06-08.22:46|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:46|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:46|[hopper-medium-expert-v2-seed0] Average Episodic Reward    3418.46
+25-06-08.22:46|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     1.05659
+25-06-08.22:46|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:46|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:46|[hopper-medium-expert-v2-seed0] Trained Epochs  170
+25-06-08.22:46|[hopper-medium-expert-v2-seed0] Actor Loss       -0.954249
+25-06-08.22:46|[hopper-medium-expert-v2-seed0] Critic Loss       9.71788
+25-06-08.22:46|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:47|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:47|[hopper-medium-expert-v2-seed0] Average Episodic Reward    2948.58
+25-06-08.22:47|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.912208
+25-06-08.22:47|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:47|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:47|[hopper-medium-expert-v2-seed0] Trained Epochs  172
+25-06-08.22:47|[hopper-medium-expert-v2-seed0] Actor Loss       -0.95429
+25-06-08.22:47|[hopper-medium-expert-v2-seed0] Critic Loss       9.82478
+25-06-08.22:47|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:47|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:47|[hopper-medium-expert-v2-seed0] Average Episodic Reward    2634.56
+25-06-08.22:47|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.815722
+25-06-08.22:47|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:47|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:47|[hopper-medium-expert-v2-seed0] Trained Epochs  174
+25-06-08.22:47|[hopper-medium-expert-v2-seed0] Actor Loss       -0.954442
+25-06-08.22:47|[hopper-medium-expert-v2-seed0] Critic Loss       9.78598
+25-06-08.22:47|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:48|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:48|[hopper-medium-expert-v2-seed0] Average Episodic Reward    2468.54
+25-06-08.22:48|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.764714
+25-06-08.22:48|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:48|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:48|[hopper-medium-expert-v2-seed0] Trained Epochs  176
+25-06-08.22:48|[hopper-medium-expert-v2-seed0] Actor Loss       -0.954748
+25-06-08.22:48|[hopper-medium-expert-v2-seed0] Critic Loss       9.77871
+25-06-08.22:48|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:48|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:48|[hopper-medium-expert-v2-seed0] Average Episodic Reward    3062.5
+25-06-08.22:48|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.947212
+25-06-08.22:48|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:48|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:48|[hopper-medium-expert-v2-seed0] Trained Epochs  178
+25-06-08.22:48|[hopper-medium-expert-v2-seed0] Actor Loss       -0.954575
+25-06-08.22:48|[hopper-medium-expert-v2-seed0] Critic Loss       9.98662
+25-06-08.22:48|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:48|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:48|[hopper-medium-expert-v2-seed0] Average Episodic Reward    1374.83
+25-06-08.22:48|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.428659
+25-06-08.22:48|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:49|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:49|[hopper-medium-expert-v2-seed0] Trained Epochs  180
+25-06-08.22:49|[hopper-medium-expert-v2-seed0] Actor Loss       -0.95459
+25-06-08.22:49|[hopper-medium-expert-v2-seed0] Critic Loss       9.70931
+25-06-08.22:49|[hopper-medium-expert-v2-seed0] --------------  ---------
+25-06-08.22:49|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:49|[hopper-medium-expert-v2-seed0] Average Episodic Reward    2462.87
+25-06-08.22:49|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.76297
+25-06-08.22:49|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:49|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:49|[hopper-medium-expert-v2-seed0] Trained Epochs  182
+25-06-08.22:49|[hopper-medium-expert-v2-seed0] Actor Loss       -0.954888
+25-06-08.22:49|[hopper-medium-expert-v2-seed0] Critic Loss       9.92636
+25-06-08.22:49|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:49|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:49|[hopper-medium-expert-v2-seed0] Average Episodic Reward    2800.33
+25-06-08.22:49|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.866657
+25-06-08.22:49|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:49|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:49|[hopper-medium-expert-v2-seed0] Trained Epochs  184
+25-06-08.22:49|[hopper-medium-expert-v2-seed0] Actor Loss       -0.954579
+25-06-08.22:49|[hopper-medium-expert-v2-seed0] Critic Loss       9.95703
+25-06-08.22:49|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:50|[hopper-medium-expert-v2-seed0] -------------------------  ---------
+25-06-08.22:50|[hopper-medium-expert-v2-seed0] Average Episodic Reward    3336.18
+25-06-08.22:50|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     1.0313
+25-06-08.22:50|[hopper-medium-expert-v2-seed0] -------------------------  ---------
+25-06-08.22:50|[hopper-medium-expert-v2-seed0] --------------  --------
+25-06-08.22:50|[hopper-medium-expert-v2-seed0] Trained Epochs  186
+25-06-08.22:50|[hopper-medium-expert-v2-seed0] Actor Loss       -0.9547
+25-06-08.22:50|[hopper-medium-expert-v2-seed0] Critic Loss      10.12
+25-06-08.22:50|[hopper-medium-expert-v2-seed0] --------------  --------
+25-06-08.22:50|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:50|[hopper-medium-expert-v2-seed0] Average Episodic Reward    3245.48
+25-06-08.22:50|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     1.00343
+25-06-08.22:50|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:50|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:50|[hopper-medium-expert-v2-seed0] Trained Epochs  188
+25-06-08.22:50|[hopper-medium-expert-v2-seed0] Actor Loss       -0.954892
+25-06-08.22:50|[hopper-medium-expert-v2-seed0] Critic Loss       9.76251
+25-06-08.22:50|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:51|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:51|[hopper-medium-expert-v2-seed0] Average Episodic Reward    3365
+25-06-08.22:51|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     1.04016
+25-06-08.22:51|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:51|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:51|[hopper-medium-expert-v2-seed0] Trained Epochs  190
+25-06-08.22:51|[hopper-medium-expert-v2-seed0] Actor Loss       -0.954973
+25-06-08.22:51|[hopper-medium-expert-v2-seed0] Critic Loss       9.65571
+25-06-08.22:51|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:51|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:51|[hopper-medium-expert-v2-seed0] Average Episodic Reward    2031.77
+25-06-08.22:51|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.63051
+25-06-08.22:51|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:51|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:51|[hopper-medium-expert-v2-seed0] Trained Epochs  192
+25-06-08.22:51|[hopper-medium-expert-v2-seed0] Actor Loss       -0.954856
+25-06-08.22:51|[hopper-medium-expert-v2-seed0] Critic Loss       9.79366
+25-06-08.22:51|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:51|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:51|[hopper-medium-expert-v2-seed0] Average Episodic Reward    3038.58
+25-06-08.22:51|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.939864
+25-06-08.22:51|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:52|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:52|[hopper-medium-expert-v2-seed0] Trained Epochs  194
+25-06-08.22:52|[hopper-medium-expert-v2-seed0] Actor Loss       -0.955236
+25-06-08.22:52|[hopper-medium-expert-v2-seed0] Critic Loss       9.68077
+25-06-08.22:52|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:52|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:52|[hopper-medium-expert-v2-seed0] Average Episodic Reward    3066.62
+25-06-08.22:52|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.948478
+25-06-08.22:52|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:52|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:52|[hopper-medium-expert-v2-seed0] Trained Epochs  196
+25-06-08.22:52|[hopper-medium-expert-v2-seed0] Actor Loss       -0.954696
+25-06-08.22:52|[hopper-medium-expert-v2-seed0] Critic Loss      10.1725
+25-06-08.22:52|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:52|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:52|[hopper-medium-expert-v2-seed0] Average Episodic Reward    3171.58
+25-06-08.22:52|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.98073
+25-06-08.22:52|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:53|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:53|[hopper-medium-expert-v2-seed0] Trained Epochs  198
+25-06-08.22:53|[hopper-medium-expert-v2-seed0] Actor Loss       -0.954905
+25-06-08.22:53|[hopper-medium-expert-v2-seed0] Critic Loss       9.90634
+25-06-08.22:53|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:53|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:53|[hopper-medium-expert-v2-seed0] Average Episodic Reward    3298.72
+25-06-08.22:53|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     1.01979
+25-06-08.22:53|[hopper-medium-expert-v2-seed0] -------------------------  ----------
+25-06-08.22:53|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:53|[hopper-medium-expert-v2-seed0] Trained Epochs  200
+25-06-08.22:53|[hopper-medium-expert-v2-seed0] Actor Loss       -0.954972
+25-06-08.22:53|[hopper-medium-expert-v2-seed0] Critic Loss       9.92126
+25-06-08.22:53|[hopper-medium-expert-v2-seed0] --------------  ----------
+25-06-08.22:53|[hopper-medium-expert-v2-seed0] -------------------------  -----------
+25-06-08.22:53|[hopper-medium-expert-v2-seed0] Average Episodic Reward    2860.17
+25-06-08.22:53|[hopper-medium-expert-v2-seed0] Average Episodic N-Reward     0.885044
+25-06-08.22:53|[hopper-medium-expert-v2-seed0] -------------------------  -----------

@@ -1,0 +1,900 @@
+25-06-08.19:00|[halfcheetah-medium-expert-v2-seed2] --------------  ---------
+25-06-08.19:00|[halfcheetah-medium-expert-v2-seed2] Trained Epochs   2
+25-06-08.19:00|[halfcheetah-medium-expert-v2-seed2] Actor Loss      -0.872383
+25-06-08.19:00|[halfcheetah-medium-expert-v2-seed2] Critic Loss      2.79912
+25-06-08.19:00|[halfcheetah-medium-expert-v2-seed2] --------------  ---------
+25-06-08.19:00|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:00|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    632.166
+25-06-08.19:00|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward    0.0734863
+25-06-08.19:00|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:00|[halfcheetah-medium-expert-v2-seed2] --------------  ---------
+25-06-08.19:00|[halfcheetah-medium-expert-v2-seed2] Trained Epochs   4
+25-06-08.19:00|[halfcheetah-medium-expert-v2-seed2] Actor Loss      -0.926975
+25-06-08.19:00|[halfcheetah-medium-expert-v2-seed2] Critic Loss      8.20739
+25-06-08.19:00|[halfcheetah-medium-expert-v2-seed2] --------------  ---------
+25-06-08.19:01|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:01|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    188.324
+25-06-08.19:01|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward    0.0377363
+25-06-08.19:01|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:01|[halfcheetah-medium-expert-v2-seed2] --------------  ---------
+25-06-08.19:01|[halfcheetah-medium-expert-v2-seed2] Trained Epochs   6
+25-06-08.19:01|[halfcheetah-medium-expert-v2-seed2] Actor Loss      -0.934993
+25-06-08.19:01|[halfcheetah-medium-expert-v2-seed2] Critic Loss     17.449
+25-06-08.19:01|[halfcheetah-medium-expert-v2-seed2] --------------  ---------
+25-06-08.19:01|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:01|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    -33.8103
+25-06-08.19:01|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward    0.0198441
+25-06-08.19:01|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:01|[halfcheetah-medium-expert-v2-seed2] --------------  ---------
+25-06-08.19:01|[halfcheetah-medium-expert-v2-seed2] Trained Epochs   8
+25-06-08.19:01|[halfcheetah-medium-expert-v2-seed2] Actor Loss      -0.939866
+25-06-08.19:01|[halfcheetah-medium-expert-v2-seed2] Critic Loss     29.4116
+25-06-08.19:01|[halfcheetah-medium-expert-v2-seed2] --------------  ---------
+25-06-08.19:02|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:02|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    -79.2969
+25-06-08.19:02|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward    0.0161804
+25-06-08.19:02|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:02|[halfcheetah-medium-expert-v2-seed2] --------------  ---------
+25-06-08.19:02|[halfcheetah-medium-expert-v2-seed2] Trained Epochs  10
+25-06-08.19:02|[halfcheetah-medium-expert-v2-seed2] Actor Loss      -0.944493
+25-06-08.19:02|[halfcheetah-medium-expert-v2-seed2] Critic Loss     41.8113
+25-06-08.19:02|[halfcheetah-medium-expert-v2-seed2] --------------  ---------
+25-06-08.19:02|[halfcheetah-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.19:02|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    126.53
+25-06-08.19:02|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward    0.032759
+25-06-08.19:02|[halfcheetah-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.19:02|[halfcheetah-medium-expert-v2-seed2] --------------  ---------
+25-06-08.19:02|[halfcheetah-medium-expert-v2-seed2] Trained Epochs  12
+25-06-08.19:02|[halfcheetah-medium-expert-v2-seed2] Actor Loss      -0.947984
+25-06-08.19:02|[halfcheetah-medium-expert-v2-seed2] Critic Loss     54.3062
+25-06-08.19:02|[halfcheetah-medium-expert-v2-seed2] --------------  ---------
+25-06-08.19:03|[halfcheetah-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.19:03|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    18.324
+25-06-08.19:03|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward   0.0240434
+25-06-08.19:03|[halfcheetah-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.19:03|[halfcheetah-medium-expert-v2-seed2] --------------  ---------
+25-06-08.19:03|[halfcheetah-medium-expert-v2-seed2] Trained Epochs  14
+25-06-08.19:03|[halfcheetah-medium-expert-v2-seed2] Actor Loss      -0.951051
+25-06-08.19:03|[halfcheetah-medium-expert-v2-seed2] Critic Loss     66.2465
+25-06-08.19:03|[halfcheetah-medium-expert-v2-seed2] --------------  ---------
+25-06-08.19:03|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:03|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    197.078
+25-06-08.19:03|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward    0.0384414
+25-06-08.19:03|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:03|[halfcheetah-medium-expert-v2-seed2] --------------  ---------
+25-06-08.19:03|[halfcheetah-medium-expert-v2-seed2] Trained Epochs  16
+25-06-08.19:03|[halfcheetah-medium-expert-v2-seed2] Actor Loss      -0.953478
+25-06-08.19:03|[halfcheetah-medium-expert-v2-seed2] Critic Loss     77.6558
+25-06-08.19:03|[halfcheetah-medium-expert-v2-seed2] --------------  ---------
+25-06-08.19:04|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:04|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    197.378
+25-06-08.19:04|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward    0.0384656
+25-06-08.19:04|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:04|[halfcheetah-medium-expert-v2-seed2] --------------  ---------
+25-06-08.19:04|[halfcheetah-medium-expert-v2-seed2] Trained Epochs  18
+25-06-08.19:04|[halfcheetah-medium-expert-v2-seed2] Actor Loss      -0.955478
+25-06-08.19:04|[halfcheetah-medium-expert-v2-seed2] Critic Loss     91.2844
+25-06-08.19:04|[halfcheetah-medium-expert-v2-seed2] --------------  ---------
+25-06-08.19:04|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:04|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    481.14
+25-06-08.19:04|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward    0.0613217
+25-06-08.19:04|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:04|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:04|[halfcheetah-medium-expert-v2-seed2] Trained Epochs   20
+25-06-08.19:04|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.957036
+25-06-08.19:04|[halfcheetah-medium-expert-v2-seed2] Critic Loss     107.229
+25-06-08.19:04|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:04|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:04|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    901.096
+25-06-08.19:04|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward    0.0951477
+25-06-08.19:04|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:05|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:05|[halfcheetah-medium-expert-v2-seed2] Trained Epochs   22
+25-06-08.19:05|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.958542
+25-06-08.19:05|[halfcheetah-medium-expert-v2-seed2] Critic Loss     128.079
+25-06-08.19:05|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:05|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:05|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    684.613
+25-06-08.19:05|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward    0.0777107
+25-06-08.19:05|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:05|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:05|[halfcheetah-medium-expert-v2-seed2] Trained Epochs   24
+25-06-08.19:05|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.959391
+25-06-08.19:05|[halfcheetah-medium-expert-v2-seed2] Critic Loss     150.733
+25-06-08.19:05|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:05|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:05|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    739.428
+25-06-08.19:05|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward    0.0821258
+25-06-08.19:05|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:06|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:06|[halfcheetah-medium-expert-v2-seed2] Trained Epochs   26
+25-06-08.19:06|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.960224
+25-06-08.19:06|[halfcheetah-medium-expert-v2-seed2] Critic Loss     174.86
+25-06-08.19:06|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:06|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:06|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    449.092
+25-06-08.19:06|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward    0.0587402
+25-06-08.19:06|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:06|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:06|[halfcheetah-medium-expert-v2-seed2] Trained Epochs   28
+25-06-08.19:06|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.960168
+25-06-08.19:06|[halfcheetah-medium-expert-v2-seed2] Critic Loss     222.938
+25-06-08.19:06|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:06|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:06|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    916.397
+25-06-08.19:06|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward    0.0963801
+25-06-08.19:06|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:07|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:07|[halfcheetah-medium-expert-v2-seed2] Trained Epochs   30
+25-06-08.19:07|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.959823
+25-06-08.19:07|[halfcheetah-medium-expert-v2-seed2] Critic Loss     324.323
+25-06-08.19:07|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:07|[halfcheetah-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.19:07|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    1071.21
+25-06-08.19:07|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward     0.10885
+25-06-08.19:07|[halfcheetah-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.19:07|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:07|[halfcheetah-medium-expert-v2-seed2] Trained Epochs   32
+25-06-08.19:07|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.961377
+25-06-08.19:07|[halfcheetah-medium-expert-v2-seed2] Critic Loss     339.77
+25-06-08.19:07|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:07|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:07|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    2200.78
+25-06-08.19:07|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward     0.199833
+25-06-08.19:07|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:08|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:08|[halfcheetah-medium-expert-v2-seed2] Trained Epochs   34
+25-06-08.19:08|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.962245
+25-06-08.19:08|[halfcheetah-medium-expert-v2-seed2] Critic Loss     336.809
+25-06-08.19:08|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:08|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:08|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    1130.63
+25-06-08.19:08|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward     0.113635
+25-06-08.19:08|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:08|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:08|[halfcheetah-medium-expert-v2-seed2] Trained Epochs   36
+25-06-08.19:08|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.962843
+25-06-08.19:08|[halfcheetah-medium-expert-v2-seed2] Critic Loss     354.516
+25-06-08.19:08|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:08|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:08|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    833.867
+25-06-08.19:08|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward    0.0897326
+25-06-08.19:08|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:09|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:09|[halfcheetah-medium-expert-v2-seed2] Trained Epochs   38
+25-06-08.19:09|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.963339
+25-06-08.19:09|[halfcheetah-medium-expert-v2-seed2] Critic Loss     366.152
+25-06-08.19:09|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:09|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:09|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    1925.44
+25-06-08.19:09|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward     0.177655
+25-06-08.19:09|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:09|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:09|[halfcheetah-medium-expert-v2-seed2] Trained Epochs   40
+25-06-08.19:09|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.963731
+25-06-08.19:09|[halfcheetah-medium-expert-v2-seed2] Critic Loss     372.862
+25-06-08.19:09|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:09|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:09|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    800.006
+25-06-08.19:09|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward    0.0870052
+25-06-08.19:09|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:10|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:10|[halfcheetah-medium-expert-v2-seed2] Trained Epochs   42
+25-06-08.19:10|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.964148
+25-06-08.19:10|[halfcheetah-medium-expert-v2-seed2] Critic Loss     382.824
+25-06-08.19:10|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:10|[halfcheetah-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.19:10|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    2095.1
+25-06-08.19:10|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward     0.19132
+25-06-08.19:10|[halfcheetah-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.19:10|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:10|[halfcheetah-medium-expert-v2-seed2] Trained Epochs   44
+25-06-08.19:10|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.964688
+25-06-08.19:10|[halfcheetah-medium-expert-v2-seed2] Critic Loss     387.185
+25-06-08.19:10|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:10|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:10|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    3516.17
+25-06-08.19:10|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward     0.305783
+25-06-08.19:10|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:11|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:11|[halfcheetah-medium-expert-v2-seed2] Trained Epochs   46
+25-06-08.19:11|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.964812
+25-06-08.19:11|[halfcheetah-medium-expert-v2-seed2] Critic Loss     385.643
+25-06-08.19:11|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:11|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:11|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    3742.74
+25-06-08.19:11|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward     0.324032
+25-06-08.19:11|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:11|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:11|[halfcheetah-medium-expert-v2-seed2] Trained Epochs   48
+25-06-08.19:11|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.965236
+25-06-08.19:11|[halfcheetah-medium-expert-v2-seed2] Critic Loss     385.749
+25-06-08.19:11|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:11|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:11|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    4288.34
+25-06-08.19:11|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward     0.367978
+25-06-08.19:11|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:12|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:12|[halfcheetah-medium-expert-v2-seed2] Trained Epochs   50
+25-06-08.19:12|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.965374
+25-06-08.19:12|[halfcheetah-medium-expert-v2-seed2] Critic Loss     388.669
+25-06-08.19:12|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:12|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:12|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    3654.47
+25-06-08.19:12|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward     0.316923
+25-06-08.19:12|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:12|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:12|[halfcheetah-medium-expert-v2-seed2] Trained Epochs   52
+25-06-08.19:12|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.965848
+25-06-08.19:12|[halfcheetah-medium-expert-v2-seed2] Critic Loss     393.436
+25-06-08.19:12|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:12|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:12|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    5341.85
+25-06-08.19:12|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward     0.452835
+25-06-08.19:12|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:13|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:13|[halfcheetah-medium-expert-v2-seed2] Trained Epochs   54
+25-06-08.19:13|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.965982
+25-06-08.19:13|[halfcheetah-medium-expert-v2-seed2] Critic Loss     391.374
+25-06-08.19:13|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:13|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:13|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    6294.31
+25-06-08.19:13|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward     0.529552
+25-06-08.19:13|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:13|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:13|[halfcheetah-medium-expert-v2-seed2] Trained Epochs   56
+25-06-08.19:13|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.966291
+25-06-08.19:13|[halfcheetah-medium-expert-v2-seed2] Critic Loss     381.568
+25-06-08.19:13|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:13|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:13|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    5340.54
+25-06-08.19:13|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward     0.452729
+25-06-08.19:13|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:14|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:14|[halfcheetah-medium-expert-v2-seed2] Trained Epochs   58
+25-06-08.19:14|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.966231
+25-06-08.19:14|[halfcheetah-medium-expert-v2-seed2] Critic Loss     385.528
+25-06-08.19:14|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:14|[halfcheetah-medium-expert-v2-seed2] -------------------------  ---------
+25-06-08.19:14|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    5872.79
+25-06-08.19:14|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward     0.4956
+25-06-08.19:14|[halfcheetah-medium-expert-v2-seed2] -------------------------  ---------
+25-06-08.19:14|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:14|[halfcheetah-medium-expert-v2-seed2] Trained Epochs   60
+25-06-08.19:14|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.966592
+25-06-08.19:14|[halfcheetah-medium-expert-v2-seed2] Critic Loss     389.684
+25-06-08.19:14|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:14|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:14|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    6140.19
+25-06-08.19:14|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward     0.517138
+25-06-08.19:14|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:15|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:15|[halfcheetah-medium-expert-v2-seed2] Trained Epochs   62
+25-06-08.19:15|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.966778
+25-06-08.19:15|[halfcheetah-medium-expert-v2-seed2] Critic Loss     392.217
+25-06-08.19:15|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:15|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:15|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    6059.59
+25-06-08.19:15|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward     0.510646
+25-06-08.19:15|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:15|[halfcheetah-medium-expert-v2-seed2] --------------  ---------
+25-06-08.19:15|[halfcheetah-medium-expert-v2-seed2] Trained Epochs   64
+25-06-08.19:15|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.96663
+25-06-08.19:15|[halfcheetah-medium-expert-v2-seed2] Critic Loss     388.756
+25-06-08.19:15|[halfcheetah-medium-expert-v2-seed2] --------------  ---------
+25-06-08.19:15|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:15|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    7475.82
+25-06-08.19:15|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward     0.624719
+25-06-08.19:15|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:16|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:16|[halfcheetah-medium-expert-v2-seed2] Trained Epochs   66
+25-06-08.19:16|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.966951
+25-06-08.19:16|[halfcheetah-medium-expert-v2-seed2] Critic Loss     385.431
+25-06-08.19:16|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:16|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:16|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    5485.92
+25-06-08.19:16|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward     0.464439
+25-06-08.19:16|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:16|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:16|[halfcheetah-medium-expert-v2-seed2] Trained Epochs   68
+25-06-08.19:16|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.967182
+25-06-08.19:16|[halfcheetah-medium-expert-v2-seed2] Critic Loss     384.568
+25-06-08.19:16|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:16|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:16|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    8849.19
+25-06-08.19:16|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward     0.735339
+25-06-08.19:16|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:17|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:17|[halfcheetah-medium-expert-v2-seed2] Trained Epochs   70
+25-06-08.19:17|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.967236
+25-06-08.19:17|[halfcheetah-medium-expert-v2-seed2] Critic Loss     385.289
+25-06-08.19:17|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:17|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:17|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    5978.89
+25-06-08.19:17|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward     0.504147
+25-06-08.19:17|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:17|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:17|[halfcheetah-medium-expert-v2-seed2] Trained Epochs   72
+25-06-08.19:17|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.967271
+25-06-08.19:17|[halfcheetah-medium-expert-v2-seed2] Critic Loss     381.463
+25-06-08.19:17|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:17|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:17|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    6527.67
+25-06-08.19:17|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward     0.548349
+25-06-08.19:17|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:18|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:18|[halfcheetah-medium-expert-v2-seed2] Trained Epochs   74
+25-06-08.19:18|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.967395
+25-06-08.19:18|[halfcheetah-medium-expert-v2-seed2] Critic Loss     384.879
+25-06-08.19:18|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:18|[halfcheetah-medium-expert-v2-seed2] -------------------------  --------
+25-06-08.19:18|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    8199.39
+25-06-08.19:18|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward     0.683
+25-06-08.19:18|[halfcheetah-medium-expert-v2-seed2] -------------------------  --------
+25-06-08.19:18|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:18|[halfcheetah-medium-expert-v2-seed2] Trained Epochs   76
+25-06-08.19:18|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.967523
+25-06-08.19:18|[halfcheetah-medium-expert-v2-seed2] Critic Loss     378.677
+25-06-08.19:18|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:18|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:18|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    5799.48
+25-06-08.19:18|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward     0.489695
+25-06-08.19:18|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:19|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:19|[halfcheetah-medium-expert-v2-seed2] Trained Epochs   78
+25-06-08.19:19|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.967689
+25-06-08.19:19|[halfcheetah-medium-expert-v2-seed2] Critic Loss     389.56
+25-06-08.19:19|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:19|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:19|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    5946.77
+25-06-08.19:19|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward     0.501559
+25-06-08.19:19|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:19|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:19|[halfcheetah-medium-expert-v2-seed2] Trained Epochs   80
+25-06-08.19:19|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.967702
+25-06-08.19:19|[halfcheetah-medium-expert-v2-seed2] Critic Loss     382.757
+25-06-08.19:19|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:19|[halfcheetah-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.19:19|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    5517.47
+25-06-08.19:19|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward     0.46698
+25-06-08.19:19|[halfcheetah-medium-expert-v2-seed2] -------------------------  ----------
+25-06-08.19:20|[halfcheetah-medium-expert-v2-seed2] --------------  ---------
+25-06-08.19:20|[halfcheetah-medium-expert-v2-seed2] Trained Epochs   82
+25-06-08.19:20|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.96785
+25-06-08.19:20|[halfcheetah-medium-expert-v2-seed2] Critic Loss     368.362
+25-06-08.19:20|[halfcheetah-medium-expert-v2-seed2] --------------  ---------
+25-06-08.19:20|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:20|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    9754.46
+25-06-08.19:20|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward     0.808256
+25-06-08.19:20|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:20|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:20|[halfcheetah-medium-expert-v2-seed2] Trained Epochs   84
+25-06-08.19:20|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.967931
+25-06-08.19:20|[halfcheetah-medium-expert-v2-seed2] Critic Loss     379.536
+25-06-08.19:20|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:20|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:20|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    11143.2
+25-06-08.19:20|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward      0.920112
+25-06-08.19:20|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:21|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:21|[halfcheetah-medium-expert-v2-seed2] Trained Epochs   86
+25-06-08.19:21|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.968082
+25-06-08.19:21|[halfcheetah-medium-expert-v2-seed2] Critic Loss     372.387
+25-06-08.19:21|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:21|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:21|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    8608.63
+25-06-08.19:21|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward     0.715963
+25-06-08.19:21|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:21|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:21|[halfcheetah-medium-expert-v2-seed2] Trained Epochs   88
+25-06-08.19:21|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.968147
+25-06-08.19:21|[halfcheetah-medium-expert-v2-seed2] Critic Loss     363.732
+25-06-08.19:21|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:21|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:21|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    9132.1
+25-06-08.19:21|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward     0.758127
+25-06-08.19:21|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:22|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:22|[halfcheetah-medium-expert-v2-seed2] Trained Epochs   90
+25-06-08.19:22|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.968166
+25-06-08.19:22|[halfcheetah-medium-expert-v2-seed2] Critic Loss     353.51
+25-06-08.19:22|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:22|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:22|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    8781.13
+25-06-08.19:22|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward     0.729858
+25-06-08.19:22|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:22|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:22|[halfcheetah-medium-expert-v2-seed2] Trained Epochs   92
+25-06-08.19:22|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.968222
+25-06-08.19:22|[halfcheetah-medium-expert-v2-seed2] Critic Loss     353.355
+25-06-08.19:22|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:22|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:22|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    8689.32
+25-06-08.19:22|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward     0.722462
+25-06-08.19:22|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:23|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:23|[halfcheetah-medium-expert-v2-seed2] Trained Epochs   94
+25-06-08.19:23|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.968513
+25-06-08.19:23|[halfcheetah-medium-expert-v2-seed2] Critic Loss     350.665
+25-06-08.19:23|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:23|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:23|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    7651.08
+25-06-08.19:23|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward     0.638835
+25-06-08.19:23|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:23|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:23|[halfcheetah-medium-expert-v2-seed2] Trained Epochs   96
+25-06-08.19:23|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.968559
+25-06-08.19:23|[halfcheetah-medium-expert-v2-seed2] Critic Loss     345.766
+25-06-08.19:23|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:23|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:23|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    7619.64
+25-06-08.19:23|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward     0.636303
+25-06-08.19:23|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:24|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:24|[halfcheetah-medium-expert-v2-seed2] Trained Epochs   98
+25-06-08.19:24|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.968658
+25-06-08.19:24|[halfcheetah-medium-expert-v2-seed2] Critic Loss     329.504
+25-06-08.19:24|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:24|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:24|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    9619.64
+25-06-08.19:24|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward     0.797396
+25-06-08.19:24|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:24|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:24|[halfcheetah-medium-expert-v2-seed2] Trained Epochs  100
+25-06-08.19:24|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.968597
+25-06-08.19:24|[halfcheetah-medium-expert-v2-seed2] Critic Loss     328.884
+25-06-08.19:24|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:24|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:24|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    9910.19
+25-06-08.19:24|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward     0.820799
+25-06-08.19:24|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:25|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:25|[halfcheetah-medium-expert-v2-seed2] Trained Epochs  102
+25-06-08.19:25|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.968783
+25-06-08.19:25|[halfcheetah-medium-expert-v2-seed2] Critic Loss     316.384
+25-06-08.19:25|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:25|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:25|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    7905.57
+25-06-08.19:25|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward     0.659334
+25-06-08.19:25|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:25|[halfcheetah-medium-expert-v2-seed2] --------------  ---------
+25-06-08.19:25|[halfcheetah-medium-expert-v2-seed2] Trained Epochs  104
+25-06-08.19:25|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.96884
+25-06-08.19:25|[halfcheetah-medium-expert-v2-seed2] Critic Loss     332.243
+25-06-08.19:25|[halfcheetah-medium-expert-v2-seed2] --------------  ---------
+25-06-08.19:26|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:26|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    8296.96
+25-06-08.19:26|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward     0.690859
+25-06-08.19:26|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:26|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:26|[halfcheetah-medium-expert-v2-seed2] Trained Epochs  106
+25-06-08.19:26|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.968815
+25-06-08.19:26|[halfcheetah-medium-expert-v2-seed2] Critic Loss     307.559
+25-06-08.19:26|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:26|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:26|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    9132.92
+25-06-08.19:26|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward     0.758193
+25-06-08.19:26|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:26|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:26|[halfcheetah-medium-expert-v2-seed2] Trained Epochs  108
+25-06-08.19:26|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.968897
+25-06-08.19:26|[halfcheetah-medium-expert-v2-seed2] Critic Loss     307.036
+25-06-08.19:26|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:27|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:27|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    8429.81
+25-06-08.19:27|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward     0.701559
+25-06-08.19:27|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:27|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:27|[halfcheetah-medium-expert-v2-seed2] Trained Epochs  110
+25-06-08.19:27|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.969025
+25-06-08.19:27|[halfcheetah-medium-expert-v2-seed2] Critic Loss     308.538
+25-06-08.19:27|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:27|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:27|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    8854.28
+25-06-08.19:27|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward     0.735749
+25-06-08.19:27|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:27|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:27|[halfcheetah-medium-expert-v2-seed2] Trained Epochs  112
+25-06-08.19:27|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.969012
+25-06-08.19:27|[halfcheetah-medium-expert-v2-seed2] Critic Loss     308.657
+25-06-08.19:27|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:28|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:28|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    7868.08
+25-06-08.19:28|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward     0.656314
+25-06-08.19:28|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:28|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:28|[halfcheetah-medium-expert-v2-seed2] Trained Epochs  114
+25-06-08.19:28|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.969279
+25-06-08.19:28|[halfcheetah-medium-expert-v2-seed2] Critic Loss     292.031
+25-06-08.19:28|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:28|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:28|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    10816.8
+25-06-08.19:28|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward      0.89382
+25-06-08.19:28|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:28|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:28|[halfcheetah-medium-expert-v2-seed2] Trained Epochs  116
+25-06-08.19:28|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.969292
+25-06-08.19:28|[halfcheetah-medium-expert-v2-seed2] Critic Loss     285.95
+25-06-08.19:28|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:29|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:29|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    10323.5
+25-06-08.19:29|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward      0.854089
+25-06-08.19:29|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:29|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:29|[halfcheetah-medium-expert-v2-seed2] Trained Epochs  118
+25-06-08.19:29|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.969131
+25-06-08.19:29|[halfcheetah-medium-expert-v2-seed2] Critic Loss     285.775
+25-06-08.19:29|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:29|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:29|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    10891.6
+25-06-08.19:29|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward      0.899851
+25-06-08.19:29|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:29|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:29|[halfcheetah-medium-expert-v2-seed2] Trained Epochs  120
+25-06-08.19:29|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.969394
+25-06-08.19:29|[halfcheetah-medium-expert-v2-seed2] Critic Loss     290.921
+25-06-08.19:29|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:30|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:30|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    10722
+25-06-08.19:30|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward      0.886189
+25-06-08.19:30|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:30|[halfcheetah-medium-expert-v2-seed2] --------------  --------
+25-06-08.19:30|[halfcheetah-medium-expert-v2-seed2] Trained Epochs  122
+25-06-08.19:30|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.9693
+25-06-08.19:30|[halfcheetah-medium-expert-v2-seed2] Critic Loss     298.605
+25-06-08.19:30|[halfcheetah-medium-expert-v2-seed2] --------------  --------
+25-06-08.19:30|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:30|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    10290.6
+25-06-08.19:30|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward      0.851442
+25-06-08.19:30|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:30|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:30|[halfcheetah-medium-expert-v2-seed2] Trained Epochs  124
+25-06-08.19:30|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.969269
+25-06-08.19:30|[halfcheetah-medium-expert-v2-seed2] Critic Loss     295.343
+25-06-08.19:30|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:31|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:31|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    9353.82
+25-06-08.19:31|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward     0.775985
+25-06-08.19:31|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:31|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:31|[halfcheetah-medium-expert-v2-seed2] Trained Epochs  126
+25-06-08.19:31|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.969419
+25-06-08.19:31|[halfcheetah-medium-expert-v2-seed2] Critic Loss     287.204
+25-06-08.19:31|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:31|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:31|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    10104
+25-06-08.19:31|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward      0.836411
+25-06-08.19:31|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:31|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:31|[halfcheetah-medium-expert-v2-seed2] Trained Epochs  128
+25-06-08.19:31|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.969595
+25-06-08.19:31|[halfcheetah-medium-expert-v2-seed2] Critic Loss     277.137
+25-06-08.19:31|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:32|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:32|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    9770.21
+25-06-08.19:32|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward     0.809524
+25-06-08.19:32|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:32|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:32|[halfcheetah-medium-expert-v2-seed2] Trained Epochs  130
+25-06-08.19:32|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.969646
+25-06-08.19:32|[halfcheetah-medium-expert-v2-seed2] Critic Loss     281.514
+25-06-08.19:32|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:32|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:32|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    9532.69
+25-06-08.19:32|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward     0.790393
+25-06-08.19:32|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:32|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:32|[halfcheetah-medium-expert-v2-seed2] Trained Epochs  132
+25-06-08.19:32|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.969548
+25-06-08.19:32|[halfcheetah-medium-expert-v2-seed2] Critic Loss     284.315
+25-06-08.19:32|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:33|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:33|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    10333
+25-06-08.19:33|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward      0.854857
+25-06-08.19:33|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:33|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:33|[halfcheetah-medium-expert-v2-seed2] Trained Epochs  134
+25-06-08.19:33|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.969761
+25-06-08.19:33|[halfcheetah-medium-expert-v2-seed2] Critic Loss     288.791
+25-06-08.19:33|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:33|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:33|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    10582.7
+25-06-08.19:33|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward      0.874964
+25-06-08.19:33|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:33|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:33|[halfcheetah-medium-expert-v2-seed2] Trained Epochs  136
+25-06-08.19:33|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.969806
+25-06-08.19:33|[halfcheetah-medium-expert-v2-seed2] Critic Loss     288.289
+25-06-08.19:33|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:34|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:34|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    8968.59
+25-06-08.19:34|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward     0.744957
+25-06-08.19:34|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:34|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:34|[halfcheetah-medium-expert-v2-seed2] Trained Epochs  138
+25-06-08.19:34|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.969679
+25-06-08.19:34|[halfcheetah-medium-expert-v2-seed2] Critic Loss     283.703
+25-06-08.19:34|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:34|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:34|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    9663.74
+25-06-08.19:34|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward     0.800948
+25-06-08.19:34|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:34|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:34|[halfcheetah-medium-expert-v2-seed2] Trained Epochs  140
+25-06-08.19:34|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.969773
+25-06-08.19:34|[halfcheetah-medium-expert-v2-seed2] Critic Loss     287.128
+25-06-08.19:34|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:35|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:35|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    11447.4
+25-06-08.19:35|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward      0.944619
+25-06-08.19:35|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:35|[halfcheetah-medium-expert-v2-seed2] --------------  ---------
+25-06-08.19:35|[halfcheetah-medium-expert-v2-seed2] Trained Epochs  142
+25-06-08.19:35|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.96977
+25-06-08.19:35|[halfcheetah-medium-expert-v2-seed2] Critic Loss     282.27
+25-06-08.19:35|[halfcheetah-medium-expert-v2-seed2] --------------  ---------
+25-06-08.19:35|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:35|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    10545.5
+25-06-08.19:35|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward      0.871974
+25-06-08.19:35|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:35|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:35|[halfcheetah-medium-expert-v2-seed2] Trained Epochs  144
+25-06-08.19:35|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.969956
+25-06-08.19:35|[halfcheetah-medium-expert-v2-seed2] Critic Loss     281.763
+25-06-08.19:35|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:36|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:36|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    10420.8
+25-06-08.19:36|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward      0.861928
+25-06-08.19:36|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:36|[halfcheetah-medium-expert-v2-seed2] --------------  ---------
+25-06-08.19:36|[halfcheetah-medium-expert-v2-seed2] Trained Epochs  146
+25-06-08.19:36|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.96987
+25-06-08.19:36|[halfcheetah-medium-expert-v2-seed2] Critic Loss     272.519
+25-06-08.19:36|[halfcheetah-medium-expert-v2-seed2] --------------  ---------
+25-06-08.19:36|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:36|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    10610.2
+25-06-08.19:36|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward      0.87718
+25-06-08.19:36|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:36|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:36|[halfcheetah-medium-expert-v2-seed2] Trained Epochs  148
+25-06-08.19:36|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.969987
+25-06-08.19:36|[halfcheetah-medium-expert-v2-seed2] Critic Loss     264.735
+25-06-08.19:36|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:37|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:37|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    11167.1
+25-06-08.19:37|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward      0.922039
+25-06-08.19:37|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:37|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:37|[halfcheetah-medium-expert-v2-seed2] Trained Epochs  150
+25-06-08.19:37|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.969894
+25-06-08.19:37|[halfcheetah-medium-expert-v2-seed2] Critic Loss     266.918
+25-06-08.19:37|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:37|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:37|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    11292.4
+25-06-08.19:37|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward      0.932129
+25-06-08.19:37|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:37|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:37|[halfcheetah-medium-expert-v2-seed2] Trained Epochs  152
+25-06-08.19:37|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.970069
+25-06-08.19:37|[halfcheetah-medium-expert-v2-seed2] Critic Loss     256.865
+25-06-08.19:37|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:38|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:38|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    10314.3
+25-06-08.19:38|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward      0.853351
+25-06-08.19:38|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:38|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:38|[halfcheetah-medium-expert-v2-seed2] Trained Epochs  154
+25-06-08.19:38|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.970069
+25-06-08.19:38|[halfcheetah-medium-expert-v2-seed2] Critic Loss     259.556
+25-06-08.19:38|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:38|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:38|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    10603.8
+25-06-08.19:38|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward      0.876667
+25-06-08.19:38|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:38|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:38|[halfcheetah-medium-expert-v2-seed2] Trained Epochs  156
+25-06-08.19:38|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.970093
+25-06-08.19:38|[halfcheetah-medium-expert-v2-seed2] Critic Loss     268.185
+25-06-08.19:38|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:39|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:39|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    10882.9
+25-06-08.19:39|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward      0.899145
+25-06-08.19:39|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:39|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:39|[halfcheetah-medium-expert-v2-seed2] Trained Epochs  158
+25-06-08.19:39|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.970302
+25-06-08.19:39|[halfcheetah-medium-expert-v2-seed2] Critic Loss     258.099
+25-06-08.19:39|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:39|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:39|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    10477.6
+25-06-08.19:39|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward      0.866499
+25-06-08.19:39|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:39|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:39|[halfcheetah-medium-expert-v2-seed2] Trained Epochs  160
+25-06-08.19:39|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.970278
+25-06-08.19:39|[halfcheetah-medium-expert-v2-seed2] Critic Loss     259.833
+25-06-08.19:39|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:39|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:39|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    11036.9
+25-06-08.19:39|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward      0.911556
+25-06-08.19:39|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:40|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:40|[halfcheetah-medium-expert-v2-seed2] Trained Epochs  162
+25-06-08.19:40|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.970198
+25-06-08.19:40|[halfcheetah-medium-expert-v2-seed2] Critic Loss     260.363
+25-06-08.19:40|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:40|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:40|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    10718.9
+25-06-08.19:40|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward      0.885935
+25-06-08.19:40|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:40|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:40|[halfcheetah-medium-expert-v2-seed2] Trained Epochs  164
+25-06-08.19:40|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.970379
+25-06-08.19:40|[halfcheetah-medium-expert-v2-seed2] Critic Loss     260.702
+25-06-08.19:40|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:40|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:40|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    10921.5
+25-06-08.19:40|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward      0.902256
+25-06-08.19:40|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:41|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:41|[halfcheetah-medium-expert-v2-seed2] Trained Epochs  166
+25-06-08.19:41|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.970516
+25-06-08.19:41|[halfcheetah-medium-expert-v2-seed2] Critic Loss     253.812
+25-06-08.19:41|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:41|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:41|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    11017.1
+25-06-08.19:41|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward      0.909961
+25-06-08.19:41|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:41|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:41|[halfcheetah-medium-expert-v2-seed2] Trained Epochs  168
+25-06-08.19:41|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.970603
+25-06-08.19:41|[halfcheetah-medium-expert-v2-seed2] Critic Loss     256.206
+25-06-08.19:41|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:41|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:41|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    10686.2
+25-06-08.19:41|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward      0.883301
+25-06-08.19:41|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:42|[halfcheetah-medium-expert-v2-seed2] --------------  ---------
+25-06-08.19:42|[halfcheetah-medium-expert-v2-seed2] Trained Epochs  170
+25-06-08.19:42|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.97054
+25-06-08.19:42|[halfcheetah-medium-expert-v2-seed2] Critic Loss     251.764
+25-06-08.19:42|[halfcheetah-medium-expert-v2-seed2] --------------  ---------
+25-06-08.19:42|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:42|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    10826.6
+25-06-08.19:42|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward      0.894611
+25-06-08.19:42|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:42|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:42|[halfcheetah-medium-expert-v2-seed2] Trained Epochs  172
+25-06-08.19:42|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.970502
+25-06-08.19:42|[halfcheetah-medium-expert-v2-seed2] Critic Loss     251.071
+25-06-08.19:42|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:42|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:42|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    11468.9
+25-06-08.19:42|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward      0.946345
+25-06-08.19:42|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:43|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:43|[halfcheetah-medium-expert-v2-seed2] Trained Epochs  174
+25-06-08.19:43|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.970535
+25-06-08.19:43|[halfcheetah-medium-expert-v2-seed2] Critic Loss     255.414
+25-06-08.19:43|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:43|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:43|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    11549.4
+25-06-08.19:43|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward      0.952832
+25-06-08.19:43|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:43|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:43|[halfcheetah-medium-expert-v2-seed2] Trained Epochs  176
+25-06-08.19:43|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.970712
+25-06-08.19:43|[halfcheetah-medium-expert-v2-seed2] Critic Loss     252.434
+25-06-08.19:43|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:43|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:43|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    10778.7
+25-06-08.19:43|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward      0.890753
+25-06-08.19:43|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:44|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:44|[halfcheetah-medium-expert-v2-seed2] Trained Epochs  178
+25-06-08.19:44|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.970617
+25-06-08.19:44|[halfcheetah-medium-expert-v2-seed2] Critic Loss     249.524
+25-06-08.19:44|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:44|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:44|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    11538.2
+25-06-08.19:44|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward      0.95193
+25-06-08.19:44|[halfcheetah-medium-expert-v2-seed2] -------------------------  -----------
+25-06-08.19:44|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:44|[halfcheetah-medium-expert-v2-seed2] Trained Epochs  180
+25-06-08.19:44|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.970506
+25-06-08.19:44|[halfcheetah-medium-expert-v2-seed2] Critic Loss     245.878
+25-06-08.19:44|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:44|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:44|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    10370
+25-06-08.19:44|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward      0.857837
+25-06-08.19:44|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:45|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:45|[halfcheetah-medium-expert-v2-seed2] Trained Epochs  182
+25-06-08.19:45|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.970683
+25-06-08.19:45|[halfcheetah-medium-expert-v2-seed2] Critic Loss     242.846
+25-06-08.19:45|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:45|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:45|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    10819.2
+25-06-08.19:45|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward      0.894015
+25-06-08.19:45|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:45|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:45|[halfcheetah-medium-expert-v2-seed2] Trained Epochs  184
+25-06-08.19:45|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.970728
+25-06-08.19:45|[halfcheetah-medium-expert-v2-seed2] Critic Loss     251.64
+25-06-08.19:45|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:45|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:45|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    11518.4
+25-06-08.19:45|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward      0.950334
+25-06-08.19:45|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:45|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:45|[halfcheetah-medium-expert-v2-seed2] Trained Epochs  186
+25-06-08.19:45|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.970767
+25-06-08.19:45|[halfcheetah-medium-expert-v2-seed2] Critic Loss     241.887
+25-06-08.19:45|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:46|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:46|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    10753.6
+25-06-08.19:46|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward      0.888734
+25-06-08.19:46|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:46|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:46|[halfcheetah-medium-expert-v2-seed2] Trained Epochs  188
+25-06-08.19:46|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.970801
+25-06-08.19:46|[halfcheetah-medium-expert-v2-seed2] Critic Loss     247.103
+25-06-08.19:46|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:46|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:46|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    11272.3
+25-06-08.19:46|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward      0.930514
+25-06-08.19:46|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:46|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:46|[halfcheetah-medium-expert-v2-seed2] Trained Epochs  190
+25-06-08.19:46|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.970859
+25-06-08.19:46|[halfcheetah-medium-expert-v2-seed2] Critic Loss     246.109
+25-06-08.19:46|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:47|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:47|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    11258.1
+25-06-08.19:47|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward      0.929366
+25-06-08.19:47|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:47|[halfcheetah-medium-expert-v2-seed2] --------------  ---------
+25-06-08.19:47|[halfcheetah-medium-expert-v2-seed2] Trained Epochs  192
+25-06-08.19:47|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.97091
+25-06-08.19:47|[halfcheetah-medium-expert-v2-seed2] Critic Loss     240.367
+25-06-08.19:47|[halfcheetah-medium-expert-v2-seed2] --------------  ---------
+25-06-08.19:47|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:47|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    11554.1
+25-06-08.19:47|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward      0.953214
+25-06-08.19:47|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:47|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:47|[halfcheetah-medium-expert-v2-seed2] Trained Epochs  194
+25-06-08.19:47|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.970668
+25-06-08.19:47|[halfcheetah-medium-expert-v2-seed2] Critic Loss     233.478
+25-06-08.19:47|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:48|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:48|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    11569.6
+25-06-08.19:48|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward      0.954462
+25-06-08.19:48|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:48|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:48|[halfcheetah-medium-expert-v2-seed2] Trained Epochs  196
+25-06-08.19:48|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.970764
+25-06-08.19:48|[halfcheetah-medium-expert-v2-seed2] Critic Loss     243.589
+25-06-08.19:48|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:48|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:48|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    11089.1
+25-06-08.19:48|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward      0.915759
+25-06-08.19:48|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:48|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:48|[halfcheetah-medium-expert-v2-seed2] Trained Epochs  198
+25-06-08.19:48|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.970882
+25-06-08.19:48|[halfcheetah-medium-expert-v2-seed2] Critic Loss     250.929
+25-06-08.19:48|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:49|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:49|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    11122.2
+25-06-08.19:49|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward      0.918422
+25-06-08.19:49|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:49|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:49|[halfcheetah-medium-expert-v2-seed2] Trained Epochs  200
+25-06-08.19:49|[halfcheetah-medium-expert-v2-seed2] Actor Loss       -0.970927
+25-06-08.19:49|[halfcheetah-medium-expert-v2-seed2] Critic Loss     246.075
+25-06-08.19:49|[halfcheetah-medium-expert-v2-seed2] --------------  ----------
+25-06-08.19:49|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
+25-06-08.19:49|[halfcheetah-medium-expert-v2-seed2] Average Episodic Reward    10993.8
+25-06-08.19:49|[halfcheetah-medium-expert-v2-seed2] Average Episodic N-Reward      0.908081
+25-06-08.19:49|[halfcheetah-medium-expert-v2-seed2] -------------------------  ------------
